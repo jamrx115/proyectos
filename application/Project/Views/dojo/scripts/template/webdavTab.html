@@ -1,0 +1,14 @@
+<tr>
+    <td class="label">
+        <label>
+            {{label}}
+        </label>
+    </td>
+    <td colspan="2">
+    {% if error %}
+        {{errorMessage|safe}}
+    {% else %}
+        <a href="{{url|safe}}">{{url|safe}}</a>
+    {% endif %}
+    </td>
+</tr>

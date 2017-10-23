@@ -1,0 +1,109 @@
+{
+
+"6.2.1":
+{
+    "structure":
+    {
+        "importacion":
+        {
+            "create":
+            {
+                "id":          "default",
+                "owner_id":    {"type": "int"},
+                "project_id":     {"type": "int"},
+                "file":     {"type": "text"}
+            }
+        }
+    },
+
+    "initialData":
+    {
+        "database_manager":
+        {
+            "insert":
+            [
+                {
+                    "table_name":      "Importacion",
+                    "table_field":     "project_id",
+                    "form_tab":        "1",
+                    "form_label":      "Project",
+                    "form_type":       "selectValues",
+                    "form_position":   "1",
+                    "form_columns":    "1",
+                    "form_regexp":     "NULL",
+                    "form_range":      "Project # id # title",
+                    "default_value":   "NULL",
+                    "list_position":   "1",
+                    "list_align":      "center",
+                    "list_use_filter": "1",
+                    "alt_position":    "0",
+                    "status":          "1",
+                    "is_integer":      "1",
+                    "is_required":     "1",
+                    "is_unique":       "0"
+                },
+
+                {
+                    "table_name":      "Importacion",
+                    "table_field":     "file",
+                    "form_tab":        "1",
+                    "form_label":      "Cargar",
+                    "form_type":       "upload",
+                    "form_position":   "2",
+                    "form_columns":    "1",
+                    "form_regexp":     "NULL",
+                    "form_range":      "NULL",
+                    "default_value":   "NULL",
+                    "list_position":   "0",
+                    "list_align":      "center",
+                    "list_use_filter": "1",
+                    "alt_position":    "0",
+                    "status":          "1",
+                    "is_integer":      "0",
+                    "is_required":     "0",
+                    "is_unique":       "0"
+                }
+            ]
+        },
+
+        "module":
+        {
+            "insert":
+            [
+                {
+                    "name":      "Importacion",
+                    "label":     "Importacion",
+                    "save_type": "1",
+                    "active":    "1",
+                    "_relations":
+                    {
+                        "project_module_permissions":
+                        {
+                            "insert":
+                            [
+                                {
+                                    "module_id":  "##id##",
+                                    "project_id": "1"
+                                }
+                            ]
+                        },
+
+                        "role_module_permissions":
+                        {
+                            "insert":
+                            [
+                                {
+                                    "module_id": "##id##",
+                                    "role_id":   "1",
+                                    "access":    "139"
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
+
+}

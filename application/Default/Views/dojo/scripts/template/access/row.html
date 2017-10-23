@@ -1,0 +1,7 @@
+<tr id="trAccessFor{{id}}">
+    <td>{{input|safe}}</td>
+    {% for right in rights %}
+        <td dojoAttachPoint="{{right}}"></td>
+    {% endfor %}
+    <td dojoAttachPoint="button"></td>
+</tr>

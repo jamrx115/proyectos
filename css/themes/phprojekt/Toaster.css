@@ -1,0 +1,13 @@
+.dijitToasterContainer {
+    display: block;
+    position: absolute;
+    width: 300px;
+    margin: 0px;
+    font: 12px Tahoma, Helvetica, Verdana, Arial;
+}
+
+#disableFrontendMessage {
+    border: 1px solid #DFDFDF;
+    width: 200px;
+    background: #EFEFEF;
+}

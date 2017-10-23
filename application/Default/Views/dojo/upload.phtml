@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title>PHProjekt</title>
+    <link rel="favicon" href="<?php echo $this->baseUrl('img/favicon.ico'); ?>"></link>
+    <link rel="favicon" href="<?php echo $this->baseUrl('img/favicon.ico'); ?>"></link>
+    <link rel="shortcut icon" href="<?php echo $this->baseUrl('img/favicon.ico'); ?>"></link>
+    <link href="<?php echo $this->baseUrl('min/min/?g=phprojekt" rel="stylesheet'); ?>" type="text/css" />
+
+    <script type="text/javascript">
+        var djConfig = {isDebug: false, parseOnLoad: true, useCommentedJson: true};
+    </script>
+        <?php
+        if ($this->compressedDojo) {
+        ?>
+            <script type="text/javascript"
+                    src="<?php echo $this->baseUrl('dojo/release/dojo/dojo/dojo.js'); ?>"></script>
+        <?php
+        } else {
+        ?>
+            <script type="text/javascript"
+                    src="<?php echo $this->baseUrl('dojo/release/dojo/dojo/dojo.js.uncompressed.js'); ?>"></script>
+        <?php
+        }
+        ?>
+    <script type="text/javascript">
+        var par   = window.parent.document;
+    </script>
+</head>
+<body class="phprojekt">
+<?php if (!$this->disabled) { ?>
+    <form method="post" id="upload" action="<?php echo $this->baseUrl($this->formPath); ?>"
+          enctype="multipart/form-data" style="display:inline;">
+        <div style="display:inline;">
+            <input type="hidden" name="field" id="field" value="<?php echo $this->field; ?>" />
+            <input type="hidden" name="id" id="id" value="<?php echo $this->itemId; ?>" />
+            <input type="hidden" name="fieldId" id="fieldId" value="<?php echo $this->fieldId; ?>" />
+            <input type="hidden" name="csrfToken" id="csrfToken" value="<?php echo $this->csrfToken; ?>" />
+            <input type="hidden" name="MAX_FILE_SIZE" value="<?php echo $this->maxUploadSize; ?>" />
+            <input type="file" name="uploadedFile" id="uploadedFile" onChange="dojo.byId('upload').submit();" />
+        </div>
+    </form>
+    <br />
+<?php } ?>
+    <!-- notify the parent -->
+    <script type="text/javascript">
+            dojo.ready(function() {
+                var fieldId = <?php echo $this->fieldId; ?>;
+                var callback = window.parent.phpr._uploadCallbacks[fieldId];
+                <?php if (isset($this->errorMessage) && !empty($this->errorMessage)) { ?>
+                    callback(<?php echo json_encode($this->errorMessage); ?>);
+                <?php } else { ?>
+                    callback(null, <?php echo json_encode($this->files); ?>);
+                <?php } ?>
+            });
+    </script>
+</body>
+</html>

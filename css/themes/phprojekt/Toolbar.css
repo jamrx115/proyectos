@@ -1,0 +1,12 @@
+.phprojekt .header .dijitToolbar {
+    margin: 15px;
+    font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
+    color: #000000;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.phprojekt .header. .dijitToolbar .selected {
+    color: #ffcc33;
+}
+

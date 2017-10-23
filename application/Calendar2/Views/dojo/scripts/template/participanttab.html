@@ -1,0 +1,52 @@
+<tr>
+    <td colspan="3">
+    <table dojoAttachPoint="participantTable"
+    style="position: relative; left: 75px">
+    <tr>
+        <td>
+            <label>{{participantUserText}}</label>
+        </td>
+        <td>
+            <label>{{participantActionText}}</label>
+        </td>
+        <td>
+            <label>{{participantAvailabilityText}}</label>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <select dojoAttachPoint="dataParticipantAdd" name="dataParticipantAdd" dojoType="phpr.FilteringSelect"
+            required="false" autocomplete="false" value="" invalidMessage="" >
+                {% for user in users %}
+                <option value="{{user.id}}" >{{user.name}}</option>
+                {% endfor %}
+            </select>
+        </td>
+        <td>
+            <div dojoAttachPoint="participantAddButton">
+            </div>
+        </td>
+    </tr>
+    {% for item in participants %}
+    <tr dojoAttachPoint="trParticipantFor{{item.userId}}"
+    {% ifequal currentUser item.userId %}
+        style="display: none;"
+        {% endifequal %}
+    >
+        <td class="{{item.statusClass}}">
+            <input dojoAttachPoint="dataParticipant[{{item.userId}}]"
+                   name="newParticipants[]"
+                   type="hidden"
+                   value="{{item.userId}}"
+                   dojoType="dijit.form.TextBox" />
+            {{item.userName}}
+        </td>
+        <td>
+            <div dojoAttachPoint="participantDeleteButton{{item.userId}}">
+            </div>
+        </td>
+    </tr>
+    {% endfor %}
+    </table>
+    </td>
+</tr>

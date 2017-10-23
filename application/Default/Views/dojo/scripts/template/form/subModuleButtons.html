@@ -1,0 +1,24 @@
+<tr>
+    <td class="label">
+        &nbsp;
+    </td>
+    <td>
+        <button dojoType="dijit.form.Button" baseClass="positive" id="subModuleSubmitButton" iconClass="tick"
+            type="submit">
+            {{saveText}}
+        </button>
+        &nbsp;
+        {% if id > 0 %}
+            <button dojoType="dijit.form.Button" baseClass="negative" id="subModuleDeleteButton" iconClass="cross">
+                {{deleteText}}
+            </button>
+            &nbsp;
+        {% endif %}
+        <button dojoType="dijit.form.Button" baseClass="negative" id="subModuleNewButton" iconClass="add">
+            {{newText}}
+        </button>
+    </td>
+    <td>
+        &nbsp;
+    </td>
+</tr>

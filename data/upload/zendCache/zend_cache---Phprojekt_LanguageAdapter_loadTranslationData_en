@@ -1,0 +1,1918 @@
+a:14:{s:7:"Default";a:240:{s:8:"Projects";s:8:"Projects";s:7:"Project";s:7:"Project";s:5:"Users";s:5:"Users";s:7:"Contact";s:7:"Contact";s:8:"Contacts";s:8:"Contacts";s:3:"Tag";s:3:"Tag";s:2:"No";s:2:"No";s:3:"Yes";s:3:"Yes";s:5:"Count";s:5:"Count";s:13:"With selected";s:13:"With selected";s:6:"Export";s:6:"Export";s:9:"Check All";s:9:"Check All";s:11:"Uncheck All";s:11:"Uncheck All";s:6:"ItemId";s:4:"Item";s:5:"Field";s:5:"Field";s:9:"Old value";s:9:"Old value";s:9:"New value";s:9:"New value";s:19:"Search results for:";s:19:"Search results for:";s:11:"Tag results";s:11:"Tag results";s:4:"Help";s:4:"Help";s:6:"Logout";s:6:"Logout";s:4:"Tags";s:4:"Tags";s:19:"Include Subprojects";s:19:"Include Subprojects";s:6:"Access";s:6:"Access";s:12:"Notification";s:12:"Notification";s:7:"History";s:7:"History";s:4:"Read";s:4:"Read";s:5:"Write";s:5:"Write";s:6:"Create";s:6:"Create";s:4:"Copy";s:4:"Copy";s:8:"Download";s:8:"Download";s:5:"Admin";s:5:"Admin";s:4:"None";s:4:"None";s:6:"Action";s:6:"Action";s:3:"Add";s:3:"Add";s:4:"Save";s:4:"Save";s:6:"Delete";s:6:"Delete";s:6:"Cancel";s:6:"Cancel";s:5:"Close";s:5:"Close";s:4:"Edit";s:4:"Edit";s:3:"New";s:3:"New";s:25:"Disable Frontend Messages";s:30:"Disable all Frontend Messages!";s:2:"OK";s:2:"OK";s:5:"Reset";s:5:"Reset";s:13:"Export to CSV";s:13:"Export to CSV";s:14:"Add a new item";s:14:"Add a new item";s:37:"Open this item in the form to edit it";s:37:"Open this item in the form to edit it";s:20:"Double click to edit";s:20:"Double click to edit";s:12:"To Text Mode";s:12:"To Text Mode";s:12:"To HTML Mode";s:12:"To HTML Mode";s:18:"User not logged in";s:18:"User not logged in";s:39:"Missing arguments in setParams function";s:39:"Missing arguments in setParams function";s:34:"There are no entries on this level";s:34:"There are no entries on this level";s:17:"There are no Tags";s:17:"There are no Tags";s:40:"You do not have access to edit this item";s:40:"You do not have access to edit this item";s:28:"The Item was added correctly";s:28:"The Item was added correctly";s:29:"The Item was edited correctly";s:29:"The Item was edited correctly";s:31:"The Items were edited correctly";s:31:"The Items were edited correctly";s:25:"The Item can't be deleted";s:25:"The Item can't be deleted";s:30:"The Item was deleted correctly";s:30:"The Item was deleted correctly";s:32:"The Items were deleted correctly";s:32:"The Items were deleted correctly";s:19:"Is a required field";s:19:"Is a required field";s:18:"Value out of range";s:18:"Value out of range";s:23:"Invalid format for date";s:23:"Invalid format for date";s:25:"Invalid date format. Use:";s:25:"Invalid date format. Use:";s:14:"Invalid Format";s:14:"Invalid Format";s:29:"The Tags were added correctly";s:29:"The Tags were added correctly";s:31:"The Tags were deleted correctly";s:31:"The Tags were deleted correctly";s:22:"The Item was not found";s:22:"The Item was not found";s:52:"You do not have write access into the parent project";s:52:"You do not have write access into the parent project";s:60:"You do not have access to add projects on the parent project";s:60:"You do not have access to add projects on the parent project";s:50:"The parent project do not have enabled this module";s:50:"The parent project do not have enabled this module";s:41:"The project can not be saved under itself";s:41:"The project can not be saved under itself";s:47:"The project can not be saved under its children";s:47:"The project can not be saved under its children";s:21:"ID parameter required";s:21:"ID parameter required";s:26:"Node Id parameter required";s:26:"Node Id parameter required";s:22:"Invalid module or item";s:22:"Invalid module or item";s:22:"Two arguments expected";s:22:"Two arguments expected";s:37:"Second parameter needs to be an array";s:37:"Second parameter needs to be an array";s:42:"No parent id found in parameters or passed";s:42:"No parent id found in parameters or passed";s:17:"No help available";s:17:"No help available";s:40:"You do not have access to do this action";s:40:"You do not have access to do this action";s:18:"Internal exception";s:18:"Internal exception";s:57:"Please contact the administrator and check the error logs";s:57:"Please contact the administrator and check the error logs";s:19:"Invalid json format";s:19:"Invalid json format";s:10:"User error";s:10:"User error";s:25:"Internal javascript error";s:25:"Internal javascript error";s:19:"Server unreachable!";s:19:"Server unreachable!";s:16:"Unexpected error";s:16:"Unexpected error";s:33:"Maximum length exceeded for field";s:33:"Maximum length exceeded for field";s:49:"File 'uploadedFile' exceeds the defined form size";s:33:"File exceeds maximum allowed size";s:55:"You don't have permission for downloading on this item.";s:55:"You don't have permission for downloading on this item.";s:50:"You don't have permission for modifying this item.";s:50:"You don't have permission for modifying this item.";s:58:"Error in received parameter, consult the admin. Parameter:";s:58:"Error in received parameter, consult the admin. Parameter:";s:74:"If you have problems or questions with PHProjekt, please write an email to";s:74:"If you have problems or questions with PHProjekt, please write an email to";s:16:"Support address:";s:16:"Support address:";s:14:"Invalid string";s:14:"Invalid string";s:71:"Allowed values are: Letters, numbers, space, dash, underscore and colon";s:71:"Allowed values are: Letters, numbers, space, dash, underscore and colon";s:40:"All settings were disabled successfully!";s:40:"All settings were disabled successfully!";s:26:"No settings were disabled!";s:26:"No settings were disabled!";s:35:"You can not delete the root project";s:35:"You can not delete the root project";s:30:"The model argument is expected";s:30:"The model argument is expected";s:12:"Confirmation";s:12:"Confirmation";s:32:"Are you sure you want to delete?";s:32:"Are you sure you want to delete?";s:36:"Please confirm the following action:";s:36:"Please confirm the following action:";s:13:"rows selected";s:13:"rows selected";s:6:"Period";s:6:"Period";s:37:"End date can not be before Start date";s:37:"End date can not be before Start date";s:143:"Run-time notice. The script encountered something that could indicate an error, but could also happen in the normal course of running a script.";s:143:"Run-time notice. The script encountered something that could indicate an error, but could also happen in the normal course of running a script.";s:70:"Error message intentionally generated by a programmer (trigger_error).";s:56:"Error message generated by a programmer (trigger_error).";s:58:"Catchable fatal error. Probably a dangerous error occured.";s:58:"Catchable fatal error. Probably a dangerous error occured.";s:19:"Unknown error type.";s:19:"Unknown error type.";s:8:"View all";s:8:"View all";s:20:"There are no Results";s:20:"There are no Results";s:17:"Send Notification";s:17:"Send Notification";s:1:"A";s:1:"A";s:13:"item has been";s:13:"item has been";s:8:"modified";s:8:"modified";s:7:"created";s:7:"created";s:12:"Current data";s:12:"Current data";s:12:"Changes done";s:12:"Changes done";s:64:"Check this box to send an email notification to the participants";s:64:"Check this box to send an email notification to the participants";s:6:"Monday";s:6:"Monday";s:7:"Tuesday";s:7:"Tuesday";s:9:"Wednesday";s:9:"Wednesday";s:8:"Thursday";s:8:"Thursday";s:6:"Friday";s:6:"Friday";s:8:"Saturday";s:8:"Saturday";s:6:"Sunday";s:6:"Sunday";s:7:"January";s:7:"January";s:8:"February";s:8:"February";s:5:"March";s:5:"March";s:5:"April";s:5:"April";s:3:"May";s:3:"May";s:4:"June";s:4:"June";s:4:"July";s:4:"July";s:6:"August";s:6:"August";s:9:"September";s:9:"September";s:7:"October";s:7:"October";s:8:"November";s:8:"November";s:8:"December";s:8:"December";s:7:"Offered";s:7:"Offered";s:7:"Ordered";s:7:"Ordered";s:7:"Working";s:7:"Working";s:5:"Ended";s:5:"Ended";s:7:"Stopped";s:7:"Stopped";s:9:"Re-Opened";s:9:"Re-Opened";s:7:"Waiting";s:7:"Waiting";s:8:"Accepted";s:8:"Accepted";s:6:"Active";s:6:"Active";s:8:"Inactive";s:8:"Inactive";s:7:"Filters";s:7:"Filters";s:10:"Delete all";s:10:"Delete all";s:12:"Add a filter";s:12:"Add a filter";s:57:"Please, delete some filters for get a correct result set.";s:57:"Please, delete some filters for get a correct result set.";s:17:"Filter_equal_rule";s:5:"Equal";s:21:"Filter_not_equal_rule";s:9:"Not equal";s:17:"Filter_major_rule";s:5:"Major";s:23:"Filter_major_equal_rule";s:11:"Major equal";s:17:"Filter_minor_rule";s:5:"Minor";s:23:"Filter_minor_equal_rule";s:11:"Minor equal";s:16:"Filter_like_rule";s:4:"Like";s:20:"Filter_not_like_rule";s:8:"Not like";s:18:"Filter_begins_rule";s:6:"Begins";s:16:"Filter_ends_rule";s:4:"Ends";s:10:"Filter_AND";s:3:"AND";s:9:"Filter_OR";s:2:"OR";s:25:"has created the new entry";s:25:"has created the new entry";s:21:"has deleted the entry";s:21:"has deleted the entry";s:31:"has modified the existing entry";s:31:"has modified the existing entry";s:13:"has logged in";s:13:"has logged in";s:14:"has logged out";s:14:"has logged out";s:20:"Your event starts at";s:20:"Your event starts at";s:34:"has executed a not defined process";s:34:"has executed a not defined process";s:10:"in Project";s:10:"in Project";s:4:"Text";s:4:"Text";s:4:"Date";s:4:"Date";s:4:"Time";s:4:"Time";s:8:"Datetime";s:8:"Datetime";s:6:"Select";s:6:"Select";s:8:"Checkbox";s:8:"Checkbox";s:10:"Percentage";s:10:"Percentage";s:6:"Rating";s:6:"Rating";s:8:"Textarea";s:8:"Textarea";s:6:"Upload";s:6:"Upload";s:5:"Start";s:5:"Start";s:3:"End";s:3:"End";s:4:"Hour";s:4:"Hour";s:10:"Start date";s:10:"Start date";s:8:"End date";s:8:"End date";s:10:"Start time";s:10:"Start time";s:8:"End time";s:8:"End time";s:5:"Notes";s:5:"Notes";s:8:"Comments";s:8:"Comments";s:7:"Comment";s:7:"Comment";s:4:"Name";s:4:"Name";s:8:"Username";s:8:"Username";s:8:"Password";s:8:"Password";s:10:"First name";s:10:"First name";s:9:"Last name";s:9:"Last name";s:5:"Email";s:5:"Email";s:6:"E-Mail";s:6:"E-Mail";s:8:"Language";s:8:"Language";s:9:"Time zone";s:9:"Time zone";s:7:"Company";s:7:"Company";s:11:"First phone";s:11:"First phone";s:12:"Second phone";s:12:"Second phone";s:12:"Mobile phone";s:12:"Mobile phone";s:6:"Street";s:6:"Street";s:4:"City";s:4:"City";s:8:"Zip code";s:8:"Zip code";s:7:"Country";s:7:"Country";s:5:"Title";s:5:"Title";s:6:"Parent";s:6:"Parent";s:4:"Type";s:4:"Type";s:6:"Status";s:6:"Status";s:14:"Current status";s:14:"Current status";s:7:"Percent";s:10:"Percentage";s:16:"Complete percent";s:16:"Complete percent";s:6:"Budget";s:6:"Budget";s:8:"Priority";s:8:"Priority";s:8:"Category";s:8:"Category";s:3:"Sum";s:3:"Sum";s:5:"Total";s:5:"Total";s:6:"Amount";s:6:"Amount";s:7:"Private";s:7:"Private";s:12:"Content Help";a:5:{s:7:"General";s:5657:"<br />
+    This is the <b>General Help</b><br />
+    <br />
+    The Phprojekt screen is divided into many sections:<br />
+    <br />
+    <ul>
+        <li>
+            The <b>upper section</b> that has the system logo at the left and some links and a search box at the right
+            side.<br />
+            <br />
+            <ol>
+                <li>
+                    The <b>logo</b> is a link to the Project module and will show all the root Projects in the left tree
+                    panel and also in the grid on the screen's center.
+                </li>
+                <li>
+                    The right top section contains <b>many links</b> to modules that are not directly linked to a
+                    particular Project. Too see each one's help close this pop-up window, open the module and click on
+                    the Help top link again.
+                    <br />
+                    <ol>
+                        <li>
+                            <b>Calendar:</b> a module for managing events that are situated in a specific date and time
+                            in a calendar.
+                        </li>
+                        <li>
+                            <b>Timecard:</b> a module for charging working hours to the Projects. It has a visual
+                            interface and is very easy to use.
+                        </li>
+                        <li>
+                            <b>Setting:</b> here the user sets and changes specific configurations parameters of his/her
+                            profile, like password, e-mail, etc.
+                        </li>
+                        <li>
+                            <b>Administration:</b> this is the general site administration section and is only visible
+                            and accessible to users with Admin profile.
+                        </li>
+                        <li>
+                            <b>Help:</b> that is this dynamic window. Whenever it is clicked it shows the general help
+                            plus the help for the active module.
+                        </li>
+                        <li>
+                            <b>Logout:</b> finishes the current session and returns to the login page.
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    <b>Search box:</b> this box permits searching across the site for items containing the portion of
+                    string typed.
+                </li>
+            </ol>
+            <br />
+        </li>
+        <li>
+            Two lefts panels:<br />
+            <br />
+            <ol>
+                <li>
+                    <b>Projects tree:</b> it has a hierarchical tree of Projects and Subprojects. They are opened just
+                    clicking them.
+                </li>
+                <li>
+                    <b>Tags box:</b> it is a <i>tag cloud</i> with links to items of the system. The tags are defined
+                    by the user when editing every item. The more times a tag is repeated in the system, the bigger it
+                    appears.
+                </li>
+            </ol>
+            <br />
+        </li>
+        <li>
+            The center panels:<br />
+            <br />
+            This section varies depending on the module selected. Generally it has:<br />
+            <ol>
+                <li>
+                    A <b>top tabs bar</b>, some <b>action buttons</b> and a <b>breadcrumb trail</b>:<br />
+                    <ol>
+                    <li>
+                        The <b>tabs</b> represent modules or submodules for you to click them open it.
+                    </li>
+                    <li>
+                        The buttons are usually three:<br />
+                        <ol>
+                            <li>
+                                <b>Add a new item:</b> to create a new item in the active module.
+                            </li>
+                            <li>
+                                <b>Export to CSV:</b> to export the items that are being shown in the grid, to a file
+                                in CSV format.
+                            </li>
+                            <li>
+                                <b>Filter:</b> activates an optional panel over the grid that lets you create a set of
+                                specific searching criteria to filter the grid items and see only the ones you want.
+                            </li>
+                        </ol>
+                    </li>
+                    <li>
+                        <b>Breadcrumb trail</b>: it shows you the specific dependency structure of the selected module
+                        and/or Project: all its parent Projects, if any, and the selected module and item.<br />
+                        Its main purpose is to show you where you are, and what you are looking at.
+                    </li>
+                </ol>
+            </li>
+            <li>
+                A <b>grid</b> with the listing of the items of the module. Depending on the user rights they can be
+                edited double clicking on a cell and modifying it.<br />
+                Clicking on the headers of each column the list is rearranged alphabetically according to that column
+                contents.<br />
+                When an item row is clicked on any cell, the item gets opened in the form below.
+            </li>
+            <li>
+                A <b>form</b> that is shown whenever it is being created a new item or it is open an existing one.
+            </li>
+        </ol>
+    </ul>
+    <br />
+    <br />";s:10:"Basic data";s:221:"<br />
+    <b>Basic data tab</b><br />
+    <br />
+    Inside this tab it goes the main information about an item.<br />
+    It has several fields to fill, according to the module it belongs to.<br />
+    <br />
+    <br />";s:6:"Access";s:1689:"<br />
+    <b>Access tab</b><br />
+    <br />
+    Here the individual rights for each item are defined.<br />
+    <br />
+    The rights are: Read, Write, Access, Create, Copy, Delete, Download and Admin.<br />
+    The users that have access to this tab for a specific item, like the owner (creator) of it, can assign these rights
+    to other users for this item.<br />
+    <br />
+    The users that appear in the select list of this tab, that are the ones you can assign rights to, are all the users
+    that have access to the parent Project, except for the logged user who is seeing the tab. If you want an unlisted
+    user to be listed in the select field, you have to give him/her access to all parent projects.<br />
+    The aim of that tab is to select what users you want to give access to the item and what kind of access.<br />
+    For example, you create an item and choose some users to give them 'Read' access and if you want you can choose
+    another user and give him/her 'Write' access.<br />
+    <br />
+    The different permissions are:<br />
+    <br />
+    <b>Read</b>: see the item.<br />
+    <b>Write</b>: modify the item.<br />
+    <b>Access</b>: pass through the item (e.g.: see the sub projects but not to see the project itself).<br />
+    <b>Create</b>: create sub items.<br />
+    <b>Copy</b>: copy the item to create other one.<br />
+    <b>Delete</b>: delete the item.<br />
+    <b>Download</b>: download files (for example in the Filemanager module).<br />
+    <b>Admin</b>: allows to do all, including editing the access of the item.<br />
+    <br />
+    Note: the owner (creator) of the item has by default all the permissions.<br />
+    <br />
+    <br />";s:12:"Notification";s:385:"<br />
+    <b>Notification tab</b><br />
+    <br />
+    This tab makes possible to send an automatic email notification to all the users with read access to the current
+    item, or the users that the current module has defined according its own criteria. That email will tell them about
+    the creation or modification of the item giving details about it.<br />
+    <br />
+    <br />";s:7:"History";s:231:"<br />
+    <b>History tab</b><br />
+    <br />
+    It shows a listing of the changes made to the item since its creation.<br />
+    It has five columns: <i>date</i>, <i>user</i>, <i>field</i>, <i>old value</i> and <i>new value</i>.";}s:15:"Tutorial Header";s:150:"    <p>
+This tutorial will guide you through the basic features of PHProjekt.</br>
+Click the tabs to go through the elements of the tutorial.
+    </p>";s:8:"The Tree";s:8:"The Tree";s:18:"Tree tutorial text";s:378:"<h3>The Tree</h3>
+<p>
+The tree is the main way to navigate around your projects in PHProjekt 6.
+Inside the tree you can find all projects that you are currently allowed to see.
+To get to the root node of the tree, just click the PHProjekt logo in the top left corner.
+You can expand and collapse subprojects in the tree with the cross button on the left side of each label.
+</p>";s:8:"The Grid";s:8:"The Grid";s:18:"Grid tutorial text";s:848:"<h3>The Grid</h3>
+<p>
+The grid is a more sophisticated way to navigate the child projects of a selected project.</br>
+Here you can see a summary of some of the data of each child project and edit the listed projects directly by double-clicking
+on a given cell value.</br>
+If you just do a single click on a grid row, the full featured project form will open and allow you to see all the values
+of the selected project.</br>
+On the left side of each row is a small checkbox which can be used to select multiple projects and delete or export them
+together using the "with selected" dropdown menu at the bottom of the grid.</br>
+If the selected project has no child projects yet and you have the permission to create subprojects, the grid will
+only show you a message indicating that there are currently no subprojects and a button to create one.
+</p>";s:15:"Project Modules";s:15:"Project Modules";s:29:"Project Modules tutorial text";s:768:"<h3>Project Modules</h3>
+<p>
+Project modules are the core of the PHProjekt groupware.</br>
+Each module is associated with a project.</br>
+Modules contain all the functionality that you can use on a given project like
+inputting form data, uploading files, creating helpdesk tickets, watching statistics and so on.</br>
+You can manage the active modules of any project but the root project by selecting it in the tree and clicking on 
+the "Basic Data" tab. This tab contains a section "Module" where you can enable or disable the installed modules for the
+selected projects.</br>
+It is possible to control the access to specific modules on a per user basis by creating appropriate roles in the
+administration section of PHProjekt and assigning the role to the user.
+</p>";s:14:"Global Modules";s:14:"Global Modules";s:28:"Global Modules tutorial text";s:425:"<h3>Global Modules</h3>
+<p>
+Unlinke project modules, global modules are not bound to a specific project but only exist once for any given user.</br>
+They are used for general tasks like timetracking, calendars, managing contacts, adjusting the user settings or,
+if you are an administrator, changing global PHProjekt settings like adding users and roles, modifying
+modules and changing the general company settings.</br>
+</p>";s:18:"Tags tutorial text";s:563:"<h3>Tags</h3>
+<p>
+Tags help you to easily find specific projects.</br>
+In the forms in the project modules it is possible to enter a comma separated list of tags that are associated with each item.</br>
+As you add tags to projects, they will appear in the tags box in the bottom left corner.</br>
+When you click on one of the tag names in this box, PHProjekt will display a search window, listing all projects
+with the specified tags, grouped by module.</br>
+Using this feature it is very easy and fast to find projects that for example share a common topic.
+</p>";s:7:"Actions";s:7:"Actions";s:21:"Actions tutorial text";s:272:"<h3>Actions</h3>
+<p>
+Each module may provide you with a set of features like for example converting it's content to a csv format, adding new subitems or filter the contents of the grid.
+These actions are accessible through buttons right below the project module list.
+</p>";s:18:"Help tutorial text";s:165:"<h3>Help</h3>
+<p>
+To get further help with the provided features in PHProjekt or to take the tutorial again, just press the help button in the top right corner.
+</p>";}s:9:"Calendar2";a:72:{s:8:"Calendar";s:8:"Calendar";s:5:"Title";s:5:"Title";s:5:"Place";s:5:"Place";s:5:"Notes";s:5:"Notes";s:5:"Start";s:5:"Start";s:3:"End";s:3:"End";s:10:"Visibility";s:10:"Visibility";s:6:"Public";s:6:"Public";s:7:"Private";s:7:"Private";s:6:"Status";s:6:"Status";s:7:"Pending";s:7:"Pending";s:8:"Accepted";s:8:"Accepted";s:8:"Rejected";s:8:"Rejected";s:12:"Participants";s:12:"Participants";s:10:"Recurrence";s:10:"Recurrence";s:7:"Repeats";s:7:"Repeats";s:4:"None";s:4:"None";s:4:"Once";s:4:"Once";s:5:"Daily";s:5:"Daily";s:6:"Weekly";s:6:"Weekly";s:7:"Monthly";s:7:"Monthly";s:6:"Yearly";s:6:"Yearly";s:8:"Interval";s:8:"Interval";s:5:"Until";s:5:"Until";s:8:"Weekdays";s:8:"Weekdays";s:5:"Rrule";s:15:"Recurrence rule";s:25:"Wrong Recurrence Interval";s:25:"Wrong Recurrence Interval";s:33:"Incomplete Recurrence Until field";s:33:"Incomplete Recurrence Until field";s:14:"Event duration";s:14:"Event duration";s:53:"End date and time has to be after Start date and time";s:53:"End date and time has to be after Start date and time";s:37:"You have to select at least one user!";s:37:"You have to select at least one user!";s:21:"Edit repeating events";s:21:"Edit repeating events";s:23:"Delete repeating events";s:23:"Delete repeating events";s:25:"Edit just this occurrence";s:25:"Edit just this occurrence";s:27:"Delete just this occurrence";s:27:"Delete just this occurrence";s:20:"Edit all occurrences";s:20:"Edit all occurrences";s:22:"Delete all occurrences";s:22:"Delete all occurrences";s:23:"To whom will this apply";s:23:"To whom will this apply";s:16:"Edit just for me";s:16:"Edit just for me";s:25:"Edit for all participants";s:25:"Edit for all participants";s:18:"Delete just for me";s:18:"Delete just for me";s:27:"Delete for all participants";s:27:"Delete for all participants";s:11:"Change date";s:11:"Change date";s:5:"Today";s:5:"Today";s:4:"Self";s:4:"Self";s:9:"Selection";s:9:"Selection";s:14:"User selection";s:14:"User selection";s:4:"Done";s:4:"Done";s:4:"List";s:4:"List";s:3:"Day";s:3:"Day";s:4:"Week";s:4:"Week";s:5:"Month";s:5:"Month";s:13:"Calendar week";s:13:"Calendar week";s:14:"Further events";s:14:"Further events";s:31:"Select users for the group view";s:31:"Select users for the group view";s:48:"The interval for the option selected in Repeats.";s:48:"The interval for the option selected in Repeats.";s:76:"E.g.: Repeats Weekly - Interval 2, that will create one event every 2 weeks.";s:76:"E.g.: Repeats Weekly - Interval 2, that will create one event every 2 weeks.";s:43:"The day the recurrence will stop happening.";s:43:"The day the recurrence will stop happening.";s:46:"The last event's day could not match this day.";s:46:"The last event's day could not match this day.";s:12:"Content Help";a:7:{s:7:"General";s:7:"DEFAULT";s:8:"Calendar";s:5019:"<br />
+    This is the <b>General Help of Calendar module</b><br />
+    <br />
+    The Calendar is a very complete module for managing events. You can create an event, set descriptive info to it,
+    assign it date and time, specify participants, create a particular recurrence for the event, and the rest of
+    general properties of the modules, like Access rights, mail Notification and History registry.<br />
+    <br />
+    The <b>screen</b> is divided into 5 sections:<br />
+    <br />
+    <ol>
+        <li>
+            <b>Top right button bar:</b> here, depending on the items being shown and the user rights, will be shown
+            up to 3 buttons.<br />
+            <ul>
+                <li>
+                    <b>Add a new item:</b> you press it and an empty form is open to create a new event.
+                </li>
+                <li>
+                    <b>Export:</b> exports to a CSV file the results and offers you to download it.
+                </li>
+                <li>
+                    <b>Filter</b> (only seen in List view): activates an optional panel over the grid that lets you
+                    create a set of specific searching criteria to filter the grid items and see only the ones you want.
+                </li>
+            </ul>
+        </li>
+        <li>
+            <b>View tabs:</b> there are four types of listings that are activated through <b>List</b>, <b>Day</b>,
+            <b>Week</b> and <b>Month</b> tabs.<br />
+            <ul>
+                <li>
+                    <b>List:</b> a grid with all the events for the current user.
+                </li>
+                <li>
+                    <b>Day:</b> a schedule from 8:00 to 20:00 where all the events of a specific day are shown.<br />
+                    <u>It has two subtypes</u> that are chosen through the <b>Self</b> and <b>Selection</b> tab tabs
+                    appear at the right of the same bar, when <b>Day</b> mode is active:
+                    <ul>
+                        <li>
+                            <b>Self:</b> the events of the chosen day, for the current user are shown.
+                        </li>
+                        <li>
+                            <b>Selection:</b> when this tab is pressed, a pop-up window appears letting the user
+                            select a small group of people so that the list of events will have as many columns as
+                            users selected; there will be seen a group schedule for the active day.
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <b>Week:</b> a weekly schedule, like the common day schedule, but for the seven days of the week
+                    simultaneously.
+                </li>
+                <li>
+                    <b>Month:</b> a monthly schedule, shows in a clear calendar table all the days of the month, and
+                    the necessary days of previous and next months in order to complety all the weeks shown.
+                </li>
+            </ul>
+            When the Day, Week or Month view are active, it appears a schedule bar over the listings.
+            It has the <i>previous</i>, <i>today</i> and <i>next</i> links to change the day / week / month in
+            sequence. Also it shows the date of the selected period.<br />
+            <br />
+            <b>Drag and Resize</b><br />
+            <br />
+            In Day and Week views, the events are able to be dragged and resized to any visible place in the panel.
+            If you click any event, it is opened in the form, but you can also drag and drop it in another place and
+            the new time / day will be stored in the database. You can also drag the bottom border of any event to
+            increase and decrease the length of the it. In all cases the descriptive content of the event gets changed
+            automatically while you are dragging its shape or bottom border and the saving process occurs automatially
+            when you release the mouse button.<br />
+            If you drag a multiple days event, the boxes that correspond to other days of the same event get invisible,
+            when the event is dropped they get visible again but in the new position.<br />
+            The Day view in the Selection mode doesn't allow to modify the events of other users, just yours.<br />
+        </li>
+        <li>
+            <b>Grid / List:</b> here are shown the list of items or a determined day's schedule, depending on the
+            selected view.
+        </li>
+        <li>
+            <b>Form:</b> when an item is going to be created or it is clicked one in the grid/schedule above, a form is
+            shown here to enter or change its data.
+        </li>
+        <li>
+            <b>Bottom button bar:</b> here, depending on the user rights, when an item is being created or modified
+            there are shown the <b>Save</b> and <b>Delete</b> buttons.
+        </li>
+    </ol>
+    <br />
+    <br />";s:10:"Basic data";s:1318:"<br />
+    <b>Basic data tab</b><br />
+    <br />
+    Fields:<br />
+    <br />
+    <b>Title</b><br />
+    Text: the title of the event, e.g.: 'Annual managers meeting'.<br />
+    * Required field<br />
+    <br />
+    <b>Place</b><br />
+    Text: the place where the event will be carried out.<br />
+    <br />
+    <b>Notes</b><br />
+    Textarea: description of the event.<br />
+    <br />
+    <b>Start</b><br />
+    Datetime: date and timewhen the event begins.<br />
+    * Required field<br />
+    <br />
+    <b>End</b><br />
+    Datetime: date and time when the event ends (generally they end the same day)<br />
+    * Required field<br />
+    <br />
+    <b>Visibility</b><br />
+    Whether the event details will be visible to other users in the 'Selection' mode views like 'Day / Selection mode'
+    or not. If set to 'public', other users could see the time, title and note in the selection mode views, if set to
+    'private' then other users will just be able to see the time.<br />
+    <br />
+    <b>Status</b><br />
+    Whether the owner or participant of the event has accepted it, rejected it or it is still pending to be decided
+    whether he/she is going to attend the event.<br />
+    <br />
+    <b>Tag</b><br />
+    The tag field that synchronizes the item with Tags panel.<br />
+    <br />
+    <br />";s:12:"Participants";s:5414:"<br />
+    <b>Participants tab</b><br />
+    <br />
+    There is no Access tab in this module, instead, it is used this Participants tab that allows adding participants to
+    the event. The owner (creator) of the event has full access to the related events of all participants, and all
+    occurrencies, the rest of the participants are only able to modify the 'status' and 'tag' fields of Basic Data tab
+    of their respective events.  They can't modify other thing nor delete the event.<br />
+    This tab is only seen by the owner of the opened event.<br />
+    <br />
+    <br />
+    <b>Scope of each event and participants</b><br />
+    <br />
+    When it is created an event with many participants, internally as many events as participants are created although
+    only the author is able to modify the events, the participants can't modify nor delete their events.<br />
+    When an owner modifies an event or tries to delete it, the action may be applied to his/her event or also to all
+    participants, the system will eventually ask it.<br />
+    When an owner creates or modifies a multiple participants/occurrencies event, the 'status' field of all the
+    participants is set to Pending, so that they can confirm (or confirm again) whether they agree to participate in
+    the event.<br />
+    <br />
+    <br />
+    <b>Layout</b><br />
+    <br />
+    The tab has a select box and an Add button at its right side. You select a user, click the button and it will be
+    added as a participant under the select box the name of the user and a cross button that permits you to take it out.
+    This way you are adding participants to the event so that they will see it in their views of Calendar module, and
+    will receive a Notification if the checkbox of Notification tab is checked to send it.<br />
+    <br />
+    <br />
+    <b>Pop-up Dialog: To whom will this apply (Edit)</b><br />
+    <br />
+    When the owner (creator) of an event that has participants in this tab modifies the content of any tab of the event,
+    a pop-up dialog will appear when he/she presses Save button. That dialog asks what events will these modifications
+    apply to. Available buttons to answer are:<br />
+    Edit just for me => changes will affect just owner event, participants won't see them.<br />
+    Edit for all participants => changes will be applied to events of all participants.<br />
+    <br />
+    This dialog may be combined with the recurrence one (see 'Recurrence tab' help). If both dialogs appear asking you
+    how to save the event, the results may be the following, according to your answers:<br />
+    <br />
+    1 - First answer: Edit just this occurrence - Second answer: Edit just for me<br />
+    The changes will apply to this occurrence of the whole series, and just for logged user. The rest of the dates and
+    participants won't be affected.<br />
+    <br />
+    2 - First answer: Edit just this occurrence - Second answer: Edit for all participants<br />
+    The changes will apply just to this occurrence of the whole series, but for logged user and all participants.<br />
+    <br />
+    3 - First answer: Edit all occurrences - Second answer: Edit just for me<br />
+    The changes will apply to the whole series of events but just for logged user. The rest of participants won't be
+    affected.<br />
+    <br />
+    4 - First answer: Edit all occurrences - Second answer: Edit for all participants<br />
+    The changes will apply to the whole series of events and for logged user and all participants. This is the maximum
+    possible scope for the changes.<br />
+    <br />
+    <br />
+    <b>Pop-up Dialog: To whom will this apply (Delete)</b><br />
+    <br />
+    When the owner (creator) of an event that has participants in this tab tries to delete it, a pop-up dialog will
+    appear when he/she presses Delete button. That dialog asks what events will this deletion apply to. Available
+    buttons to answer are:<br />
+    Delete just for me => deletion will affect just owner event, participants will remain.<br />
+    Delete for all participants => deletion will be applied to events of all participants.<br />
+    <br />
+    This dialog may be combined with the recurrence one (see 'Recurrence tab' help). If both dialogs appear asking you
+    how to delete the event, the results may be the following, according to your answers:<br />
+    <br />
+    1 - First answer: Delete just this occurrence - Second answer: Delete just for me<br />
+    The deletion will apply to this occurrence of the whole series, and just for logged user. The rest of the dates and
+    participants won't be affected.<br />
+    <br />
+    2 - First answer: Delete just this occurrence - Second answer: Delete for all participants<br />
+    The deletion will apply just to this occurrence of the whole series, but for logged user and all participants.
+    <br />
+    <br />
+    3 - First answer: Delete all occurrences - Second answer: Delete just for me<br />
+    The deletion will apply to the whole series of events but just for logged user. The rest of participants won't be
+    affected.<br />
+    <br />
+    4 - First answer: Delete all occurrences - Second answer: Delete for all participants<br />
+    The deletion will apply to the whole series of events and for logged user and all participants. This is the maximum
+    possible scope for the deletion.<br />
+    <br />
+    <br />";s:10:"Recurrence";s:6048:"<br />
+    <b>Recurrence Tab</b><br />
+    <br />
+    Recurrence tab allows setting a recurrence to the events so that the same event is repeated later one or more
+    times, according to a user defined pattern.<br />
+    The resulting series of events may be later edited individually or all at once, and they will be connected as an
+    individual series of recurrent events. The owner (creator) of the event has full access to the related events of
+    all participants, and all occurrencies, the rest of the participants are only able to modify the 'status' and 'tag'
+    fields of Basic Data tab of their respective events.  They can't modify other thing nor delete the event.<br />
+    When an owner modifies an event or tries to delete it, the action may be applied to the open event or also to all
+    occurrencies, if any. A pop-up dialog (explained here later) will ask it.<br />
+    <br />
+    When you press Save all the parameters defined inside this tab are sent to the server and this last one calculates
+    and creates the appropriate events.<br />
+    <br />
+    When an owner creates or modifies a multiple participants/occurrencies event, the 'status' field of all the
+    participants is set to Pending, so that they can confirm (or confirm again) whether they agree to participate in
+    the event.<br />
+    <br />
+    It has 4 fields to specify recurrence parameters. The combination of all of them will determine the final result:
+    <br />
+    <br />
+    <b>Repeats</b><br />
+    Select: here you can choose the recurrence frequency. Possible options are None, Daily, Weekly, Monthly and Yearly.
+    <br /><br />
+    <b>Interval</b><br />
+    Text: here you write a number for the interval to be applied to 'Repeats' field content. Default value is '1'.<br />
+    E.g.: Repeats Daily, Interval 1 will make the event to happen everyday, with Interval 2 will make it happen every
+    other day.<br />
+    <br />
+    <b>Until</b><br />
+    The day the event will stop being repeated. This day will be included in the series.<br />
+    <br />
+    <b>Week days</b><br />
+    If you choose Weekly or Monthly in Repeats field, here you can choose a day of the week when you want the event to
+    happen.<br />
+    E.g.: If today is 5 of October Monday and you create an event that starts and ends today and select Weekly in
+    Repeats, 1 in Interval, 2009-10-25 in Until and Tuesday in Week day, the following events will be created.<br />
+    1 - Tuesday 6 of October<br />
+    2 - Tuesday 13 of October<br />
+    3 - Tuesday 20 of October<br />
+    <br />
+    <br />
+    <b>Pop-up Dialog: Edit repeating events</b><br />
+    <br />
+    When a user tries to modify an event that is part of a series and presses Save a pop-up dialog will appear.
+    That dialog asks what events will these modifications apply to. Available buttons to answer are:<br />
+    Edit just this occurrence => changes will affect just this event, the rest of the series will remain the same.
+    <br />
+    Edit all occurrences => changes will be applied to each event of the series.<br />
+    <br />
+    This dialog may be combined with the participants one (see 'Participants tab' help). If both dialogs appear asking
+    you how to save the event, the results may be the following:<br />
+    <br />
+    1 - First answer: Edit just this occurrence - Second answer: Edit just for me<br />
+    The changes will apply to this occurrence of the whole series, and just for logged user. The rest of the dates and
+    participants won't be affected.<br />
+    <br />
+    2 - First answer: Edit just this occurrence - Second answer: Edit for all participants<br />
+    The changes will apply just to this occurrence of the whole series, but for logged user and all participants.
+    <br />
+    <br />
+    3 - First answer: Edit all occurrences - Second answer: Edit just for me<br />
+    The changes will apply to the whole series of events but just for logged user. The rest of participants won't be
+    affected.<br />
+    <br />
+    4 - First answer: Edit all occurrences - Second answer: Edit for all participants<br />
+    The changes will apply to the whole series of events and for logged user and all participants. This is the maximum
+    possible scope for the changes.<br />
+    <br />
+    <br />
+    <b>Pop-up Dialog: Delete for Who</b><br />
+    <br />
+    When a user tries to delete an event that is part of a series (pressing Delete) a pop-up dialog will appear.
+    That dialog asks what events will this deletion apply to. Available buttons to answer are:<br />
+    Delete just this occurrence => deletion will affect just this event, the rest of the series will remain the
+    same.<br />
+    Delete all occurrences => deletion will be applied to each event of the series.<br />
+    <br />
+    This dialog may be combined with the participants one (see 'Participants tab' help). If both dialogs appear asking
+    you how to delete the event, the results may be the following, according to your answers:<br />
+    <br />
+    1 - First answer: Delete just this occurrence - Second answer: Delete just for me<br />
+    The deletion will apply to this occurrence of the whole series, and just for logged user. The rest of the dates and
+    participants won't be affected.<br />
+    <br />
+    2 - First answer: Delete just this occurrence - Second answer: Delete for all participants<br />
+    The deletion will apply just to this occurrence of the whole series, but for logged user and all participants.
+    <br />
+    <br />
+    3 - First answer: Delete all occurrences - Second answer: Delete just for me<br />
+    The deletion will apply to the whole series of events but just for logged user. The rest of participants won't be
+    affected.<br />
+    <br />
+    4 - First answer: Delete all occurrences - Second answer: Delete for all participants<br />
+    The deletion will apply to the whole series of events and for logged user and all participants. This is the maximum
+    possible scope for the deletion.<br />
+    <br />
+    <br />";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}s:40:"Some participants have not accepted yet.";s:40:"Some participants have not accepted yet.";s:48:"Some participants have rejected your invitation.";s:48:"Some participants have rejected your invitation.";s:43:"You did not respond to this invitation yet.";s:43:"You did not respond to this invitation yet.";s:24:"Checking availability...";s:24:"Checking availability...";s:28:"The participant is available";s:28:"The participant is available";s:32:"The participant is not available";s:32:"The participant is not available";s:12:"Availability";s:12:"Availability";s:11:"CalDav urls";s:11:"CalDav Urls";s:10:"CalDav url";s:10:"CalDav url";s:29:"CalDav url for Apple software";s:29:"CalDav url for Apple software";s:6:"Notice";s:6:"Notice";s:59:"Please pay attention to the trailing slash, it is important";s:131:"Please pay attention to the trailing slash, it
+                                                                        is important";}s:7:"Contact";a:15:{s:7:"Contact";s:7:"Contact";s:4:"Name";s:4:"Name";s:6:"E-Mail";s:6:"E-Mail";s:7:"Company";s:7:"Company";s:11:"First phone";s:11:"First phone";s:12:"Second phone";s:12:"Second phone";s:12:"Mobile phone";s:12:"Mobile phone";s:6:"Street";s:6:"Street";s:4:"City";s:4:"City";s:8:"Zip code";s:8:"Zip code";s:7:"Country";s:7:"Country";s:7:"Comment";s:7:"Comment";s:7:"Private";s:7:"Private";s:7:"Tooltip";a:1:{s:7:"private";s:60:"No: all users can see it - Yes: only the creator can see it.";}s:12:"Content Help";a:4:{s:7:"General";s:7:"DEFAULT";s:7:"Contact";s:1249:"<br />
+    This is the <b>General Help of Contact module</b><br />
+    <br />
+    This module is just to store people and companies information. It has many fields for writing data.<br />
+    <br />
+    There is a special field <b>Private</b> that sets whether the selected contact is visible for all users or just
+    for the creator.<br />
+    <br />
+    <br />
+    <u><b>Linking contacts from other modules</b></u><br />
+    <br />
+    <b>Project and Helpdesk</b><br />
+    <br />
+    Project and Helpdesk modules have a field Contacts to select one to be associated with that Project or Helpdesk
+    item.<br />
+    <br />
+    When you create or modify a Project or Helpdesk item, you can pick a contact from Contact field select box, for you
+    to provide a reference to a specific person or company that may be useful for people who work with that Project or
+    Helpdesk ticket.<br />
+    <br />
+    <br />
+    <b>Other modules</b><br />
+    <br />
+    The Module Designer (Administration -> Module), permits adding a Contact field to any module. It has to be a
+    'Select' field that has, inside left bottom edit box of the Module Designer for that field, tab Form, field Range,
+    the value 'Contact#id#name'.<br />
+    <br />
+    <br />";s:10:"Basic data";s:1400:"<br />
+    <b>Basic Data tab</b><br />
+    <br />
+    Fields:<br />
+    <br />
+    <b>Name</b><br />
+    Text: the name of the person (or company / institution), e.g.: John Doe<br />
+    * Required field<br />
+    <br />
+    <b>E-Mail</b><br />
+    Text: email address, e.g.: john@doe.com<br />
+    <br />
+    <b>Company</b><br />
+    Text: the company the contact works for, e.g.: Mayflower<br />
+    <br />
+    <b>First phone</b><br />
+    Text: a telephone number. E.g.: 1234-5678<br />
+    <br />
+    <b>Second phone</b><br />
+    Text: another telephone number. E.g.: 2345-6789<br />
+    <br />
+    <b>Mobile phone</b><br />
+    Text: a mobile telephone number. E.g.: (15) 3456-7890<br />
+    <br />
+    <b>Street</b><br />
+    Text: street and number of the address. E.g.: Maanhardtstrasse 100<br />
+    <br />
+    <b>City</b><br />
+    Text: city where the contact live or works. E.g.: Munich<br />
+    <br />
+    <b>Zip Code</b><br />
+    Text: zip code for the contact. E.g.: 12345<br />
+    <br />
+    <b>Country</b><br />
+    Text: country for the contact. E.g.: Argentina<br />
+    <br />
+    <b>Comment</b><br />
+    Textarea: just a comment about the contact. E.g.: call him from 9:00 to 5:00<br />
+    <br />
+    <b>Private</b><br />
+    Select: whether this item is private or not; so that just the owner can see it or everyone can do it,
+    respectively.<br />
+    <br />
+    <br />";s:7:"History";s:7:"DEFAULT";}}s:4:"Core";a:112:{s:5:"Label";s:5:"Label";s:7:"Setting";s:7:"Setting";s:14:"Administration";s:14:"Administration";s:37:"Admin section is only for admin users";s:37:"Admin section is only for admin users";s:99:"This module is for the user to set and change specific configuration parameters of his/her profile.";s:99:"This module is for the user to set and change specific configuration parameters of his/her profile.";s:79:"Here can be configured general settings of the site that affects all the users.";s:79:"Here can be configured general settings of the site that affects all the users.";s:39:"Please choose one of the tabs of above.";s:39:"Please choose one of the tabs of above.";s:4:"User";s:4:"User";s:16:"Confirm Password";s:16:"Confirm Password";s:12:"Old Password";s:12:"Old Password";s:5:"Admin";s:5:"Admin";s:41:"Already exists, choose another one please";s:41:"Already exists, choose another one please";s:38:"The value for the setting is incorrect";s:38:"The value for the setting is incorrect";s:67:"The password and confirmation are different or one of them is empty";s:67:"The password and confirmation are different or one of them is empty";s:36:"The old password provided is invalid";s:36:"The old password provided is invalid";s:35:"The Time zone value is out of range";s:35:"The Time zone value is out of range";s:32:"The Language value do not exists";s:32:"The Language value do not exists";s:21:"Invalid email address";s:21:"Invalid email address";s:72:"You need to log out and log in again in order to let changes have effect";s:72:"You need to log out and log in again in order to let changes have effect";s:7:"Tooltip";a:6:{s:8:"timeZone";s:175:"The Time zone (UTC) for the region or country you will be using Phprojekt.<br />This is required for all users but specially useful for international events time coordination.";s:8:"password";s:124:"For new users, this is a required field. For existing users, leave this field blank if you don't want to change the password";s:6:"alerts";s:75:"This is to turn on/off the alerts, e.g some minutes an event of you starts.";s:11:"loginLogout";s:91:"Enable/disable this and messages about the login/logout of other user will (not) disappear.";s:13:"usergenerated";s:57:"This is to turn on/off messages from another user to you.";s:11:"datarecords";s:181:"This is to turn on/off system generated messages.<br />Events that trigger this message: CREATE a new Item (e.g. a Project, Note or Todo), DELETE an existing Item, and EDIT an Item.";}s:6:"Module";s:6:"Module";s:4:"Form";s:4:"Form";s:6:"Normal";s:6:"Normal";s:6:"Global";s:6:"Global";s:11:"Open Editor";s:11:"Open Editor";s:86:"Open a dialog where you can drag and drop many fields for create the form as you want.";s:86:"Open a dialog where you can drag and drop many fields for create the form as you want.";s:8:"Database";s:8:"Database";s:10:"Field name";s:10:"Field name";s:10:"Field type";s:10:"Field type";s:12:"Field lenght";s:12:"Field lenght";s:11:"Select Type";s:11:"Select Type";s:13:"Custom Values";s:13:"Custom Values";s:6:"Values";s:6:"Values";s:13:"Default Value";s:13:"Default Value";s:4:"Grid";s:4:"Grid";s:13:"List Position";s:13:"List Position";s:7:"General";s:7:"General";s:14:"Required Field";s:14:"Required Field";s:30:"The module was added correctly";s:30:"The module was added correctly";s:31:"The module was edited correctly";s:31:"The module was edited correctly";s:29:"The module can not be deleted";s:29:"The module can not be deleted";s:32:"The module was deleted correctly";s:32:"The module was deleted correctly";s:36:"There was an error writing the table";s:36:"There was an error writing the table";s:38:"The table module was created correctly";s:38:"The table module was created correctly";s:37:"The table module was edited correctly";s:37:"The table module was edited correctly";s:18:"Invalid parameters";s:18:"Invalid parameters";s:42:"The Module must contain at least one field";s:42:"The Module must contain at least one field";s:35:"Please enter a name for this module";s:35:"Please enter a name for this module";s:40:"The module name must start with a letter";s:40:"The module name must start with a letter";s:37:"All the fields must have a table name";s:37:"All the fields must have a table name";s:45:"There are two fields with the same Field Name";s:45:"There are two fields with the same Field Name";s:36:""?" is not allowed in the field name";s:36:""?" is not allowed in the field name";s:58:"The length of the varchar fields must be between 1 and 255";s:58:"The length of the varchar fields must be between 1 and 255";s:53:"The length of the int fields must be between 1 and 11";s:53:"The length of the int fields must be between 1 and 11";s:39:"Invalid form Range for the select field";s:39:"Invalid form Range for the select field";s:57:"The module must have a project selector called project_id";s:57:"The module must have a project selector called project_id";s:38:"Project module must be a normal module";s:38:"Project module must be a normal module";s:77:"The module must have at least one field with the list position greater than 0";s:77:"The module must have at least one field with the list position greater than 0";s:33:"You can not delete system modules";s:33:"You can not delete system modules";s:15:"Module Designer";s:15:"Module Designer";s:35:"Repository of available field types";s:35:"Repository of available field types";s:27:"Active fields in the module";s:27:"Active fields in the module";s:17:"Example Project 1";s:17:"Example Project 1";s:17:"Example Project 2";s:17:"Example Project 2";s:14:"Example User 1";s:14:"Example User 1";s:14:"Example User 2";s:14:"Example User 2";s:17:"Example Contact 1";s:17:"Example Contact 1";s:17:"Example Contact 2";s:17:"Example Contact 2";s:67:"Each option have the key, and the value to display, separated by #.";s:67:"Each option have the key, and the value to display, separated by #.";s:39:"Separate the diferent options with '|'.";s:39:"Separate the diferent options with '|'.";s:54:"For Modules queries, use Module#keyField#displayField.";s:54:"For Modules queries, use Module#keyField#displayField.";s:90:"The API will get all the keyField of the module and will use the displayField for show it.";s:90:"The API will get all the keyField of the module and will use the displayField for show it.";s:95:"Defines the position of the field in the grid. Starts with 1 in the left. 0 for do not show it.";s:95:"Defines the position of the field in the grid. Starts with 1 in the left. 0 for do not show it.";s:36:"1. Drag a field into the right pane.";s:36:"1. Drag a field into the right pane.";s:59:"2. Edit the parameters of the field in the lower left pane.";s:59:"2. Edit the parameters of the field in the lower left pane.";s:68:"Drop in this panel all the fields that you want to have in this tab.";s:68:"Drop in this panel all the fields that you want to have in this tab.";s:67:"For sort the fields, just drag and drop it in the correct position.";s:67:"For sort the fields, just drag and drop it in the correct position.";s:15:"Number of stars";s:15:"Number of stars";s:3:"Tab";s:3:"Tab";s:10:"Basic Data";s:10:"Basic Data";s:6:"People";s:6:"People";s:4:"Role";s:4:"Role";s:12:"Company Name";s:12:"Company Name";s:25:"The Company name is empty";s:25:"The Company name is empty";s:14:"Login / Logout";s:14:"Login / Logout";s:12:"Data Records";s:12:"Data Records";s:6:"Alerts";s:6:"Alerts";s:12:"Notification";s:12:"Notification";s:27:"Content Help Administration";a:7:{s:7:"General";s:7:"DEFAULT";s:14:"Administration";s:1134:"<br />
+    This is the <b>General Help of Administration module</b><br />
+    <br />
+    This module is only accessible to users with Admin profile.<br />
+    It is located at the top right global modules, the last one.<br />
+    <br />
+    Here, general settings of the site that affect all users or specific ones in case of User submodule, can be set and
+    modified.<br />
+    <br />
+    It is formed by 5 tabs:<br />
+    <br />
+    <b>Module</b><br />
+    This is the Module Designer, a very easy-to-use visual drag & drop interface to create modules or modify many
+    existing ones.<br />
+    <br />
+    <b>Tab</b><br />
+    Here additional tabs for modules can be created and modified.<br />
+    <br />
+    <b>User</b><br />
+    To administer users of the system: their main info and settings.<br />
+    <br />
+    <b>Role</b><br />
+    To edit roles; a role is a set of permissions for the Project-modules (non Global ones) that is assigned to
+    users.<br />
+    <br />
+    <b>General</b><br />
+    This is a general configurations tab.<br />
+    Currently it has only one field: 'Company name'.<br />
+    <br />
+    <br />";s:6:"Module";s:7185:"<br />
+    <b>Module tab</b><br />
+    <br />
+    The Module Designer is a very easy-to-use visual drag & drop interface to create modules or modify the existing
+    ones.<br />
+    <br />
+    Firstly you press the <b>add</b> button or select an existing module from the grid. Then the form shows
+    the label and permits you to choose whether it is currently active or not (whether it is shown in the system).
+    <br />
+    Pressing the <b>Open Dialog</b> button a pop-up window appears with the designer itself.<br />
+    <br />
+    <b>The Module Designer interface</b><br />
+    <br />
+    It has 3 panels:<br />
+    <br />
+    <ul>
+        <li>
+            <b>The left fields panel:</b> here are all the field types; <i>text</i>, <i>date</i>, <i>time</i>,
+            <i>datetime</i>, <i>select</i>, <i>checkbox</i>, <i>percentage</i>, <i>rating</i>, <i>textarea</i> and
+            <i>upload</i>.<br />
+            You can drag & drop fields to the right panel, that right panel is the tab of the module you are creating
+            or modifying as it will be seen (but without buttons <b>Edit</b> and <b>Delete</b>).<br />
+            The <b>Edit</b> button in the right side of the fields, permits modifying its data before adding them to
+            the module tab (right panel) although it is also possible to drag and drop it first and then edit it
+            pressing that button in the right panel.
+        </li>
+        <li>
+            <b>The right tabs panel:</b> this has the main tabs of the module as they are going to be seen when you
+            open it outside the <b>Module Designer</b> (except for the Edit / Delete buttons). You add fields dragging
+            and dropping them from the left panel, then pressing <b>Edit</b> button the edit panel is opened in the
+            left bottom part of the window so that you can configure the field.<br />
+            The fields can be reordered with drag & drop method and deleted from the tab dragging & dropping them back
+            to the left panel or just pressing <b>Delete</b> button.<br />
+            There are as many tabs in this panel as tabs are defined in module <b>Administration</b> submodule
+            <b>Tab</b>.<br />
+            You don't need to use all the tabs created. The tab will appear in the module only if there are fields
+            inside it.
+        </li>
+        <li>
+            <b>The left bottom editing panel:</b> here, when it is pressed the <b>Edit</b> button of a field, a
+            window appears to modify its values and parameters.<br />
+            It has 4 tabs:<br />
+            <ul>
+                <li>
+                    <b>Databse:</b> to edit the data of the database.
+                </li>
+                <li>
+                    <b>Form:</b> to edit the data shown in the form.
+                </li>
+                <li>
+                    <b>Grid:</b> to edit whether the field is shown in the grid or not, and its position inside it.
+                </li>
+                <li>
+                    <b>General:</b> general parameters.
+                </li>
+            </ul>
+        </li>
+    </ul>
+    <br />
+    <b>How to create a module, from zero</b><br />
+    <br />
+    <ol>
+        <li>
+            Assuming you are in the <b>Module</b> tab of <b>Administration</b> module, press <b>Add</b> button.
+        </li>
+        <li>
+            An empty form appears. Write the name of the new module in the <b>Label</b> textbox.
+        </li>
+        <li>
+            Press the <b>Open Dialog</b> button. A big pop-up window containing the module designer appears.<br />
+            You will see the two big panels, one at the left and one at the right, and an empty space in the left
+            bottom where the field editing window eventually appears.<br />
+            Inside the right panel (the module as it will be seen outside the designer) there is a Project select box.
+            That field should exist for the module to work, it is the relation between the item and the projects, don't
+            delete it.
+        </li>
+        <li>
+            Add to the right panel using drag & drop a field of your choice. If there is more than one tab in the right
+            panel, you can select the tab you want previous to the drag & drop to set the field there. In both cases,
+            after dropping it the editing window appears for you to configure the field.<br />
+            Note: to drop the field, you have to position it with the mouse over a place where the floating box that
+            you are dragging converts itself from reddish pink to green color; that color means that you are able to
+            drop the field there, up or behind another field.
+        </li>
+        <li>
+            Configure the field attending to each of the 4 tabs of the editing window as explained here above.
+        </li>
+        <li>
+            Repeat the steps 5 and 6 as many times as fields you want to add.
+        </li>
+        <li>
+            Arrange the fields in the right panel in the order you want using drag & drop.
+        </li>
+        <li>
+            Press the <b>Close</b> button in the left bottom of the window.
+        </li>
+        <li>
+            The pop-up window has been closed. Press <b>Save</b> and the module is finished. The saving act, for
+            example when <i>creating</i> a module, creates the table in the database, saves the parameters and creates
+            the structure of folders and files.
+        </li>
+    </ol>
+    <br />
+    <b>Notes:</b><br />
+    <ul>
+        <li>
+            After saving a new module, it is needed to refresh the page in the browser.
+        </li>
+        <li>
+            The module will be added the <b>Access</b>, <b>Notification</b> and <b>History</b> tabs.
+        </li>
+        <li>
+            There could be dragged back right panel fields to the left panel. This is useful to take them back later
+            to the right panel, or to move them to another right panel tab.
+        </li>
+        <li>
+            <u>It is not recommended to modify the original modules that come with the system. Most of them have
+            additional functionality that was not made with the Module Designer and could stop working if modified
+            with it.</u>
+        </li>
+    </ul>
+    <br />
+    <b>Other special tabs</b><br />
+    <br />
+    There are other tabs used in the system modules that are not defined here, nor could be modified. They depend on
+    the module you are working with:<br />
+    <br />
+    <ul>
+        <li>
+            General modules: tabs <i>Access</i>, <i>Notification</i> and <i>History</i>.<br />
+            All the modules <i>created</i> with the <b>Module designer</b> will have, apart from the tabs designed by
+            the user, these 3 tabs explained in the help of most of the modules. <i>History</i> will only be shown in
+            edit mode.
+        </li>
+        <li>
+            Project module: tabs <i>Module</i> and <i>Role</i> explained in Project's help.
+        </li>
+        <li>
+            Calendar module: tab <i>Recurrence</i> explained in Calendar's help.
+        </li>
+    </ul>
+    <br />
+    <br />";s:3:"Tab";s:1657:"<br />
+    <b>TAB tab</b><br />
+    <br />
+    This section permits modifying the tabs of the modules.<br />
+    <br />
+    Its purpose is just to manage how many user defined tabs could exist in the modules, and their names. For example,
+    if there are 3 tabs: the default 'Basic Data' one plus two created by you, in the 'Module Designer' you can define
+    which tabs to use in a specific module; you don't need to use all the tabs created. The tab will appear in the
+    module only if when modifying it with the <b>Module Designer</b> you drop fields inside it.<br />
+    E.g.: you can create an extra tab 'Geographic Info' and create a module with the <b>Module designer</b>.
+    If you just drag & drop fields to the 'Basic Data' tab and nothing to the 'Geographic Info' tab, then the second
+    tab won't be seen in the module.<br />
+    <br />
+    <b>Other special tabs</b><br />
+    <br />
+    There are other tabs used in the system modules that are not defined here, nor could be modified.<br />
+    <ul>
+        <li>
+            General modules: tabs <i>Access</i>, <i>Notification</i> and <i>History</i>.<br />
+            All the modules <i>created</i> with the <b>Module designer</b> will have, apart from the tabs designed by
+            the user, this 3 tabs explained in the help of most of the modules. <i>History</i> will only be shown in
+            edit mode.
+        </li>
+        <li>
+            Project module: tabs <i>Module</i> and <i>Role</i> explained in Project's help.
+        </li>
+        <li>
+            Calendar module: tab <i>Recurrence</i> explained in Calendar's help.
+        </li>
+    </ul>
+    <br />
+    <br />";s:4:"User";s:2430:"<br />
+    <b>User tab</b><br />
+    <br />
+    This sub-module allows modifying users main data and settings.<br />
+    Here all the users of the system will be seen.<br />
+    <br />
+    It has a Grid and a Form like most of modules.<br />
+    <br />
+    <hr style='height: 2px;'>
+    <b>GRID</b><br />
+    <br />
+    Fields:<br />
+    <br />
+    <b>Username</b><br />
+    Text: the login name for the user.<br />
+    <br />
+    <b>First name</b><br />
+    Text: first name of the user.<br />
+    <br />
+    <b>Last name</b><br />
+    Text: last name of the user.<br />
+    <br />
+    <b>Status</b><br />
+    Select: whether this user is active in the system or not (if not, he/she can't log in).<br />
+    <br />
+    <b>Admin</b><br />
+    Select: whether this user has Admin access or not.<br />
+    <br />
+    <hr style='height: 2px;'>
+    <b>FORM</b><br />
+    <br />
+    Note:<br />
+    The users can be added and modified but not deleted, if you want to delete a user, set it to Inactive instead,
+    through Status field. He won't be able to log in and won't appear in the User Select fields.<br />
+    <br />
+    Fields:<br />
+    <br />
+    <b>Username</b><br />
+    Text: the login name for the user.<br />
+    <br />
+    <b>Password</b><br />
+    Text: if you want to change a password write here the NEW one. Black dots will be seen instead of typed characters.
+    If you don't want to change it leave this field blank.<br />
+    <br />
+    <b>First name</b><br />
+    Text: first name of the user.<br />
+    <br />
+    <b>Last name</b><br />
+    Text: last name of the user.<br />
+    <br />
+    <b>Email</b><br />
+    Text: the email of the user, mainly used to send Notifications.<br />
+    <br />
+    <b>Language</b><br />
+    Select: choose a language for the user to be shown site text and messages.<br />
+    <br />
+    <b>Time zone</b><br />
+    Select: The Time zone (UTC) for the region or country the user will be using Phprojekt. This is required for all
+    users but specially useful for international events time coordination, so that each participant of an event will
+    see the time (and eventually the date) converted to his/her local time.<br />
+    <br />
+    <b>Status</b><br />
+    Select: whether this user is active in the system or not (if not, he/she can't log in).<br />
+    <br />
+    <b>Admin</b><br />
+    Select: whether this user has Admin access or not.<br />
+    <br />
+    <br />";s:4:"Role";s:1428:"<br />
+    <b>Role tab</b><br />
+    <br />
+    This tab permits managing the Roles.<br />
+    <br />
+    A Role is a specific set of permissions for each module. That Role then is assigned to users of the Projects you
+    want, so that he will have that rights. When you create or edit a Project, you can give every different user that
+    Role inside Rol tab.<br />
+    The final right for a specific user to work with an item is defined by the conjunction of the data defined both
+    inside Role and Access tabs of Project module.<br />
+    <br />
+    By default, no Role is assigned to anybody, and the permission to access to a new project will be <b>Admin</b>
+    access  for the creator and nothing for the rest.<br />
+    <br />
+    <b>Example</b>
+    <br />
+    You can create a Role called 'Can read TODOs and NOTEs'.<br />
+    And set in that Role <i>Read</i> access to the <b>Todo</b> and <b>Note</b> modules.<br />
+    Then you create a Project and assign the user 'john' the Role 'Can read TODOs and NOTEs', so when he enters the
+    Project, the only thing he will be able to do apart from reading the main data of the Project itself is to read
+    (but not modify) items of <b>Todo</b> and <b>Note</b> modules.<br />
+    <br />
+    <b>Note:</b> in the listing of modules that you select to assign rights to a rol, the <b>Project</b> module
+    represents the Subprojects of Projects.<br />
+    <br />
+    <br />";s:11:"General tab";s:349:"<br />
+    <b>General tab</b><br />
+    <br />
+    This is a general configurations tab.<br />
+    <br />
+    Currently it has only one field 'Company name' where you set the company name that will be seen in the beginning of
+    the breadcrumb trail when a Project related module is selected (Project, Gantt, Todo, etc).<br />
+    <br />
+    <br />";}s:20:"Content Help Setting";a:5:{s:7:"General";s:7:"DEFAULT";s:7:"Setting";s:816:"<br />
+    This is the <b>General Help of Setting module</b><br />
+    <br />
+    Settings module allows logged user to modify personal information.<br />
+    <br />
+    It is formed by three sub-modules: User, Notification and Timecard. You can switch between them clicking their tabs
+    in the upper central tab bar.<br />
+    The first sub-module allows setting and changing Password, Email, Language and Time zone, the second one corresponds
+    to the real-time notifications and server synchronization and the third one is for Timecard favorite Projects.<br />
+    <br />
+    All users including Admin type ones only can modify their own information here.<br />
+    Admin type users are able to modify other users information, but not here, they do it in Administration
+    module.<br />
+    <br />
+    <br />";s:4:"User";s:1754:"<br />
+    <b>User tab</b><br />
+    <br />
+    Here you will see logged user info.<br />
+    Password fields don't show anything for security reasons, if you want to change your password, fill the 3 fields
+    as explained here later and then press Save. If you leave them blank and press Save, password won't be modified.
+    <br />
+    The rest of fields show current values and let you modify them.<br />
+    <br />
+    Fields:<br />
+    <br />
+    <b>Password</b><br />
+    Text: if you want to change your password write here the NEW one. Black dots will be seen instead of typed
+    characters.<br />
+    <br />
+    <b>Confirm Password</b><br />
+    Text: if you want to change your password write here the NEW one again. Black dots will be seen instead of typed
+    characters.<br />
+    <br />
+    <b>Old password</b><br />
+    Text: if you want to change your password write here the OLD one that will be verified for security reasons. Black
+    dots will be seen instead of typed characters.<br />
+    <br />
+    <b>Email</b><br />
+    Text: your email registered in the system. It is mainly used to send you Notifications.<br />
+    <br />
+    <b>Language</b><br />
+    Select: choose a language for you to be shown site text and messages.<br />
+    <br />
+    <b>Time zone</b><br />
+    Select: The Time zone (UTC) for the region or country you will be using Phprojekt. This is required for all users
+    but specially useful for international events time coordination, so that each participant of an event will see the
+    time (and eventually the date) converted to his/her local time.<br />
+    Each option of the select field has a local time number and a descriptive earth location to help finding
+    yours.<br />
+    <br />
+    <br />";s:13:"Notifications";s:1342:"<br />
+    <b>Notifications tab</b><br />
+    <br />
+    Here you can configure the notifications and real-time connection with the server.<br />
+    This functionality tells you some actions of other users in little pop-up dialogs at the right bottom of the
+    screen, like logging in / out, alerts, modifications of items, etc.<br />
+    It also updates content on screen according to what you are seeing and what has been modified by other users.
+    <br />
+    <br />
+    You can activate/inactivate this real-time synchronization through these check boxes:<br />
+    <br />
+    <b>Login / logout</b><br />
+    A pop-up dialog tells you when other users have logged in and out.<br />
+    <br />
+    <b>Data records</b><br />
+    If you check this box, then when some contents that you have access to are modified, you receive a message pointing
+    you that event.<br />
+    Also, if for example a Project name has been modified and you are editing it in the Form, the tree gets updated,
+    also the grid, and each modified form field gets updated and the field border gets thick and red coloured.<br />
+    <br />
+    <b>User Generated Messages</b><br />
+    It is not developed yet, the check box is disabled.<br />
+    <br />
+    <b>Alerts</b><br />
+    It is not developed yet, the check box is disabled.<br />
+    <br />
+    <br />";s:8:"Timecard";s:481:"<br />
+    <b>Timecard tab</b><br />
+    <br />
+    Here you will see and will be able to change the Favorite Projects of Timecard module.<br />
+    <br />
+    They will appear first on the project selection in the form of the Timecard module. This list of Projects is
+    independent for each user and its purpose is to shorten booking process time.<br />
+    <br />
+    When you have finished doing the changes in this Multiple Select Box, press Save.<br />
+    <br />
+    <br />";}s:20:"Migration neccessary";s:20:"Migration neccessary";s:45:"Thank you for upgrading to PHProjekt version ";s:45:"Thank you for upgrading to PHProjekt version ";s:171:".<br/>
+We're sorry to disrupt your Work, but we need to do some things to the database.<br/><br/>
+You can use Phprojekt again after an administrator initiated the upgrade.";s:171:".<br/>
+We're sorry to disrupt your Work, but we need to do some things to the database.<br/><br/>
+You can use Phprojekt again after an administrator initiated the upgrade.";s:6:"Logout";s:6:"Logout";s:9:"Migration";s:9:"Migration";s:199:".<br/>We're sorry to bother you, but we need to upgrade the database to the current version.<br/><br/>
+When you're ready, just click the button. Please note that the upgrade might take a few moments.";s:199:".<br/>We're sorry to bother you, but we need to upgrade the database to the current version.<br/><br/>
+When you're ready, just click the button. Please note that the upgrade might take a few moments.";s:180:"<h4>Warning!</h4><p>This feature is still new, and we really don't want you to lose your data.<br/>
+So please, back up your data before clicking the button.<br/><br/>Thank you.</p>";s:180:"<h4>Warning!</h4><p>This feature is still new, and we really don't want you to lose your data.<br/>
+So please, back up your data before clicking the button.<br/><br/>Thank you.</p>";s:13:"Not installed";s:13:"Not installed";s:37:"Upgrade controller idle (before link)";s:158:"This is the place where migration happens after installing a new Version.
+Currently, there's nothing to upgrade, so this page is quite boring.<br/>
+Visit the ";s:35:"Upgrade controller idle (link text)";s:9:"main page";s:36:"Upgrade controller idle (after link)";s:29:" for more interesting things.";s:125:"There was an unknown problem on the server. We're really sorry.
+You can try again, but there might be problems in the future.";s:125:"There was an unknown problem on the server. We're really sorry.
+You can try again, but there might be problems in the future.";s:135:"There was a problem upgrading, but we managed to keep the database in a consistent state.
+Please consult the logfiles to find out more.";s:135:"There was a problem upgrading, but we managed to keep the database in a consistent state.
+Please consult the logfiles to find out more.";s:134:"We're sorry, but our upgrade attempt broke the database.
+Please recover your backups and consult the logfiles to get more information.";s:134:"We're sorry, but our upgrade attempt broke the database.
+Please recover your backups and consult the logfiles to get more information.";s:45:"An error occured while upgrading this module.";s:45:"An error occured while upgrading this module.";s:11:"Old Version";s:11:"Old Version";s:11:"New Version";s:11:"New Version";s:6:"Status";s:6:"Status";s:11:"Upgrade now";s:11:"Upgrade now";s:8:"Continue";s:8:"Continue";s:9:"Upgrading";s:9:"Upgrading";s:4:"Done";s:4:"Done";}s:11:"Filemanager";a:9:{s:11:"Filemanager";s:11:"Filemanager";s:5:"Title";s:5:"Title";s:8:"Comments";s:8:"Comments";s:7:"Project";s:7:"Project";s:6:"Upload";s:6:"Upload";s:7:"Tooltip";a:1:{s:5:"files";s:41:"You can upload as many files as you want.";}s:12:"Content Help";a:6:{s:7:"General";s:7:"DEFAULT";s:11:"Filemanager";s:336:"<br />
+    This is the <b>General Help of Filemanager module</b><br />
+    <br />
+    The File manager is a module defined exclusively for uploading and downloading files from the system.<br />
+    <br />
+    It can be added more than one file in just one item of the module, with description, category, etc.<br />
+    <br />
+    <br />";s:10:"Basic data";s:1066:"<br />
+    <b>Basic Data tab</b><br />
+    <br />
+    Fields:<br />
+    <br />
+    <b>Title</b><br />
+    Text: the title of the item, e.g.: 'Nice poems to relax at lunch time'.<br />
+    * Required field<br />
+    <br />
+    <b>Comments</b><br />
+    Textarea: some descriptive note.<br />
+    E.g.: Both files are in UTF-8 mode, open them with an appropriate reader.<br />
+    <br />
+    <b>Project</b><br />
+    Select: parent Project which contains the Filemanager item, if none then select PHProjekt.<br />
+    * Required field<br />
+    <br />
+    <b>Upload</b><br />
+    This field allows you to upload one or more files.<br />
+    Its way of work is absolutely intuitive: press the button at the right of the field, choose a file from your
+    computer and the file is sent.<br />
+    Then the uploaded file appears behind the field with a cross button at its right side to delete it. The file itself
+    is a link to download it.<br />
+    <br />
+    <b>Tag</b><br />
+    The tag field that synchronizes the item with Tags panel.<br />
+    <br />
+    <br />";s:6:"Access";s:7:"DEFAULT";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}s:26:"Filenames must be unique, ";s:26:"Filenames must be unique, ";s:24:" appears multiple times.";s:24:" appears multiple times.";}s:5:"Gantt";a:27:{s:5:"Gantt";s:5:"Gantt";s:8:"Projects";s:8:"Projects";s:7:"Project";s:7:"Project";s:28:"No project info was received";s:28:"No project info was received";s:24:"Incomplete data received";s:24:"Incomplete data received";s:14:"Id not found #";s:14:"Id not found #";s:12:"Project id #";s:12:"Project id #";s:18:"Start date invalid";s:18:"Start date invalid";s:16:"End date invalid";s:16:"End date invalid";s:36:"Start date can not be after End date";s:36:"Start date can not be after End date";s:25:"Attention: parent project";s:25:"Attention: parent project";s:22:"Attention: sub-project";s:21:"Attention: subproject";s:24:"starts after sub-project";s:23:"starts after subproject";s:23:"ends before sub-project";s:22:"ends before subproject";s:25:"ends after parent project";s:25:"ends after parent project";s:28:"starts before parent project";s:28:"starts before parent project";s:53:"Click "OK" to adjust parent project to new start date";s:57:"Click "OK" to adjust parent project to new
+    start date";s:51:"Click "OK" to adjust parent project to new end date";s:55:"Click "OK" to adjust parent project to new
+    end date";s:48:"Click "OK" to adjust sub-project to new end date";s:47:"Click "OK" to adjust subproject to new end date";s:50:"Click "OK" to adjust sub-project to new start date";s:49:"Click "OK" to adjust subproject to new start date";s:38:"Click "Reset" to reset current project";s:38:"Click "Reset" to reset current project";s:32:"Click "x" or "ESC" to do nothing";s:32:"Click "x" or "ESC" to do nothing";s:27:"There are no valid projects";s:27:"There are no valid projects";s:25:"Selected Project Timeline";s:25:"Selected Project Timeline";s:7:"Warning";s:7:"Warning";s:79:"Click on a Project timeline and see and/or change here the Start and End dates.";s:79:"Click on a Project timeline and see and/or change here the Start and End dates.";s:12:"Content Help";a:6:{s:7:"General";s:7:"DEFAULT";s:5:"Gantt";s:1095:"<br />
+    This is the <b>General Help of Gantt module</b><br />
+    <br />
+    This module is a Gantt chart interface, mouse editable, which is automatically synchronized with the data stored in
+    the database.<br />
+    <br />
+    A Gantt chart is a type of bar chart that illustrates a project schedule. Gantt charts illustrate the start and
+    finish dates of the terminal (children) elements and summary (parent) elements of a Project.<br />
+    The module reads the Projects and Subprojects and elaborates a graphic that has one horizontal bar per Project
+    (timeline) which can be moved with the mouse scrolling it over time or just increasing or decreasing the start and
+    end dates.<br />
+    <br />
+    Up the chart there is a space where a panel called 'Selected Project Timeline' appears. When you click on a Project
+    timeline bar, this panel's fields get loaded with the start and end dates of clicked bar Project, so that you can
+    see and/or modify them writing different dates or selecting them in the calendar that pops up for each field.<br />
+    <br />
+    <br />";s:15:"Listed Projects";s:1610:"<br />
+    The listed Projects are those you have at least Read access to, and also that they have filled 'Start Date' and
+    'End Date' values.<br />
+    <br />
+    Firstly there will be listed all Projects that are children of the active one, no matter whether it is Root Project
+    (PHProjekt) or another one.<br />
+    If one of the listed Projects has at least one child, it will be shown a [+] plus sign at its left for you to click
+    it or the Project name and open it and see its children under it. The children may also have Sub-Projects, and so
+    on.<br />
+    <br />
+    <b>Timeline</b><br />
+    <br />
+    According to the earlier Start Date and latest End Date for all the Projects, a specific amount of years will fill
+    the horizontal scope of the timeline.<br />
+    The timeline always starts in January and ends in December but those months not necessary correspond to the same
+    year.<br />
+    For all years that have at least one month occupied by a Project bar, 12 months will be shown.<br />
+    E.g.: If 2 Projects are listed, one starting in Jul-08 and ending in Aug-08, and the other starting in Dec-08 and
+    ending in Mar-09 then 24 months will be shown in the timeline, from Jan-08 to Dic-09.<br />
+    <br />
+    <b>Bars</b><br />
+    <br />
+    The bar of each Project occupies a proportional horizontal surface and position according its dates, so that you can
+    visually perceive its duration in time, relation and proportion paying attention to the column headers, and compare
+    it with its Sub-Projects, parent or another Projects.<br />
+    <br />
+    <br />";s:14:"Changing dates";s:2052:"<br />
+    <b>MOVING AND RESIZING THE BARS</b><br />
+    <br />
+    There are two ways of modifying times of a Project through the mouse and the bars: Moving and Resizing them.<br />
+    <br />
+    <b>Moving the Bars</b><br />
+    <br />
+    Click on the body of any of them (not the darker left and right borders) and without releasing the mouse button,
+    drag them left or right to the new position.<br />
+    You won't be able to drag it to a point outside the timeline, like a previous or posterior year.<br />
+    <br />
+    <b>Resizing the Bars</b><br />
+    <br />
+    You can click on a bar border and without releasing the mouse drag it left or back to increase or decrease Project
+    length.<br />
+    <br />
+    <b>Selected Project Timeline panel</b><br />
+    <br />
+    When you click on the bar, like in the previous cases, a panel 'Selected Project Timeline' appears showing you the
+    exact Start and End dates for the Project.<br />
+    Also, after you drag or resize a bar using the mouse, those dates will be shown and get updated automatically
+    according to the new position of the bar.<br />
+    See 'Changing dates using the panels' part of this help for more details of the panel use.<br />
+    <br />
+    <hr style='height: 2px;'>
+    <b>USING THE PANELS</b><br />
+    <br />
+    You can see the exact Start and End dates for any bar of the Projects.<br />
+    <br />
+    Just click on one bar, and a panel called 'Selected Project Timeline' will appear on top of the window Gantt
+    section showing you both dates. After changing any bar width and/or position, both fields get updated automatically
+    with the changes made to the bar.<br />
+    <br />
+    <b>Modifying the Dates using those fields</b><br />
+    <br />
+    Those 2 dates are editable; you can click on any of them and pick a date in the dynamic pop-up calendar that
+    appears behind, or write it manually in the field.<br />
+    Then press the Check button; if no error is found the bar will move onto its new parameters.<br />
+    <br />
+    <br />";s:17:"Checks and errors";s:2883:"<br />
+    After you change Project dates either from the bar (moving the whole bar or just a border of it) or upper panel
+    fields, internal checks are performed. If any error is found, one of the following four errors will be brought up
+    in a dialog for you to choose what to do. XX in the error title means a Project name.<br />
+    <br />
+    Note: all errors are connected with the fact that in this structure of Projects hierarchy all Sub-Projects are
+    supposed to happen inside parent's time.<br />
+    <br />
+    Errors:<br />
+    <br />
+    <b>Subproject XX starts before parent project XX</b><br />
+    <br />
+    When you change a Start date of a Project so that any of its children now starts before it, this error appears.
+    <br />
+    <br />
+    The Error pop-up dialog offers you to choose one of these three options:<br />
+    Click OK for the Sub-Project Start date to be moved forward to match parent's Start date.<br />
+    Click Reset to restore the moved Project to its previous position and/or width.<br />
+    Click the top right [x] cross button or Esc to leave things as they are.<br />
+    <br />
+    <br />
+    <b>Subproject XX ends after parent project XX</b><br />
+    <br />
+    When you change an End date of a Project so that now it ends before any of its children, this error appears.<br />
+    <br />
+    The Error pop-up dialog offers you to choose one of these three options:<br />
+    Click OK for the Sub-Project End date to be moved backwards to match parent's End date.<br />
+    Click Reset to restore the moved Project to its previous position and/or width.<br />
+    Click the top right [x] cross button or Esc to leave things as they are.<br />
+    <br />
+    <br />
+    <b>Parent project XX starts after subproject XX</b><br />
+    <br />
+    When you change a Start date of a Sub-Project so that now it starts before its parent, this error appears.<br />
+    <br />
+    The Error pop-up dialog offers you to choose one of these three options:<br />
+    Click OK for the parent Project Start date to be moved backwards to match child's Start date.<br />
+    Click Reset to restore the moved Sub-Project to its previous position and/or width.<br />
+    Click the top right [x] cross button or Esc to leave things as they are.<br />
+    <br />
+    <br />
+    <b>Parent project XX ends before subproject XX</b><br />
+    <br />
+    When you change an End date of a Sub-Project so that now it ends after its parent, this error appears.<br />
+    <br />
+    The Error pop-up dialog offers you to choose one of these three options:<br />
+    Click OK for the parent Project End date to be moved forward to match child's End date.<br />
+    Click Reset to restore the moved Sub-Project to its previous position and/or width.<br />
+    Click the top right [x] cross button or Esc to leave things as they are.<br />
+    <br />
+    <br />";s:12:"Write access";s:343:"<br />
+    You will be able to make changes only in the Projects where you have write permission.<br />
+    <br />
+    If you have right permission in at least one of the listed Projects then the 'Save' button will be seen.<br />
+    The rest of the Project bars will be disabled and you won't be able to move them.<br />
+    <br />
+    <br />";}}s:8:"Helpdesk";a:20:{s:8:"Helpdesk";s:8:"Helpdesk";s:5:"Title";s:5:"Title";s:8:"Assigned";s:8:"Assigned";s:4:"Date";s:4:"Date";s:7:"Project";s:7:"Project";s:8:"Priority";s:8:"Priority";s:11:"Attachments";s:11:"Attachments";s:11:"Description";s:11:"Description";s:6:"Status";s:6:"Status";s:4:"Open";s:4:"Open";s:6:"Solved";s:6:"Solved";s:8:"Verified";s:8:"Verified";s:6:"Closed";s:6:"Closed";s:8:"Due date";s:8:"Due date";s:6:"Author";s:6:"Author";s:9:"Solved by";s:9:"Solved by";s:11:"Solved date";s:11:"Solved date";s:7:"Contact";s:7:"Contact";s:7:"Tooltip";a:1:{s:9:"projectId";s:50:"The parent project, if none then select PHProjekt.";}s:12:"Content Help";a:6:{s:7:"General";s:7:"DEFAULT";s:8:"Helpdesk";s:553:"<br />
+    This is the <b>General Help of Helpdesk module</b><br />
+    <br />
+    The Helpdesk is a module to report and track bugs or things that must be solved inside whatever context.<br />
+    <br />
+    It has lot of fields that can be filled with the needed information for the assigned user to solve the ticket.
+    <br />
+    There are some automatic fields: <b>Author</b>, <b>Date</b>, <b>Solved by</b> and <b>Solved date</b> that are
+    filled automatically depending on the users that create and solve the items.<br />
+    <br />
+    <br />";s:10:"Basic data";s:3369:"<br />
+    <b>Basic Data tab</b><br />
+    <br />
+    Fields:<br />
+    <br />
+    <b>Title</b><br />
+    Text: the title of the item, e.g.: 'Fix my notebook'.<br />
+    * Required field<br />
+    <br />
+    <b>Author</b><br />
+    Display: a read-only mode field that is automatically filled with the name of the user who created the item.<br />
+    <br />
+    <b>Assigned</b><br />
+    A user the ticket is assigned to, if any. He/she is the one to solve it.<br />
+    When this user is selected, or it is changed to another user, some rights are assigned to him/her: Read, Write,
+    Delete and Download access.<br />
+    <br />
+    <b>Date</b><br />
+    Display: a read-only mode field that is automatically filled with the date of creation of the item.<br />
+    <br />
+    <b>Due Date</b><br />
+    Date: when the ticket is expected to have been solved.<br />
+    <br />
+    <b>Project</b><br />
+    Select: parent Project which contains the ticket (item), if none then select PHProjekt.<br />
+    * Required field<br />
+    <br />
+    <b>Priority</b><br />
+    Select: a number between 1 and 10 for the priority. When you have many items in the Grid, you can sort them into
+    the priority clicking the header of that column. It may be ranked in ascending or descending order.<br />
+    <br />
+    <b>Attachments</b><br />
+    This field allows you to upload one or more files.<br />
+    Its way of work is absolutely intuitive: press the button at the right of the field, choose a file from your
+    computer and the file is sent.<br />
+    Then the uploaded file appears behind the field with a cross button at its right side to delete it. The file itself
+    is a link to download it.<br />
+    <br />
+    <b>Solved by</b><br />
+    Display: a read-only mode field that is automatically filled with the name of the user that changed the Status
+    field to 'Solved'.<br />
+    <br />
+    <b>Solved Date</b><br />
+    Display: a read-only mode field that is automatically filled with the date when it was changed the Status field to
+    'Solved'.<br />
+    <br />
+    <b>Description</b><br />
+    Textarea: the description of the ticket.<br />
+    E.g.:<br />
+    1 - Turn the notebook on<br />
+    2 - Put a CD into the CD-ROM drive<br />
+    3 - Try to open its content, you can't<br />
+    <br />
+    <b>Status</b><br />
+    Select: the status of the item, this is supposed to change over time as the task advances.<br />
+    The options are self-descriptive:<br />
+    1 - Open: the first state.<br />
+    2 - Assigned: you select it when item has been assigned to a user.<br />
+    3 - Solved: this is supposed to be the final state for a solved issue.<br />
+    4 - Verified: the issue was corroborated but it wasn't solved nor closed.<br />
+    5 - Closed: this is supposed to be the final state for a NON-solved issue.<br />
+    <br />
+    When the status is set to Solved, the fields Solved By and Solved Date in the form are automatically filled with
+    the logged user name and current date respectively. If you change Solved status by another one, those 2 fields are
+    emptied again.<br />
+    <br />
+    <b>Contact</b><br />
+    A contact to relate the item with, maybe a user that can be consulted about the issue.<br />
+    <br />
+    <b>Tag</b><br />
+    The tag field that synchronizes the item with Tags panel.<br />
+    <br />
+    <br />";s:6:"Access";s:7:"DEFAULT";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}}s:7:"Minutes";a:46:{s:6:"Minute";s:6:"Minute";s:5:"Title";s:5:"Title";s:5:"Start";s:5:"Start";s:3:"End";s:3:"End";s:7:"Project";s:7:"Project";s:11:"Description";s:11:"Description";s:5:"Place";s:5:"Place";s:9:"Moderator";s:9:"Moderator";s:7:"Invited";s:7:"Invited";s:9:"Attending";s:9:"Attending";s:7:"Excused";s:7:"Excused";s:6:"Status";s:6:"Status";s:7:"Planned";s:7:"Planned";s:5:"Empty";s:5:"Empty";s:6:"Filled";s:6:"Filled";s:5:"Final";s:5:"Final";s:4:"Mail";s:4:"Mail";s:10:"Recipients";s:10:"Recipients";s:21:"Additional Recipients";s:21:"Additional Recipients";s:7:"Options";s:7:"Options";s:22:"Include PDF attachment";s:22:"Include PDF attachment";s:9:"Send mail";s:9:"Send mail";s:7:"Preview";s:7:"Preview";s:68:"The currently logged-in user is not owner of the given minutes entry";s:68:"The currently logged-in user is not owner of the given minutes entry";s:62:"Are you sure this Minutes entry should no longer be finalized?";s:62:"Are you sure this Minutes entry should no longer be finalized?";s:61:"After proceeding, changes to the data will be possible again.";s:61:"After proceeding, changes to the data will be possible again.";s:52:"Are you sure this Minutes entry should be finalized?";s:52:"Are you sure this Minutes entry should be finalized?";s:32:"Write access will be prohibited!";s:32:"Write access will be prohibited!";s:21:"Minutes are finalized";s:21:"Minutes are finalized";s:32:"This Minutes entry is finalized.";s:32:"This Minutes entry is finalized.";s:35:"Editing data is no longer possible.";s:35:"Editing data is no longer possible.";s:33:"Your changes have not been saved.";s:33:"Your changes have not been saved.";s:30:"The mail was sent successfully";s:30:"The mail was sent successfully";s:26:"The mail could not be sent";s:26:"The mail could not be sent";s:42:"No recipient addresses have been specified";s:42:"No recipient addresses have been specified";s:31:"Invalid email address detected:";s:31:"Invalid email address detected:";s:19:"Meeting minutes for";s:19:"Meeting minutes for";s:3:"No.";s:3:"No.";s:4:"Type";s:4:"Type";s:4:"Item";s:4:"Item";s:18:"Unfinalize Minutes";s:18:"Unfinalize Minutes";s:16:"Finalize Minutes";s:16:"Finalize Minutes";s:7:"Confirm";s:7:"Confirm";s:13:"Are you sure?";s:13:"Are you sure?";s:56:"Email addresses of unlisted recipients, comma-separated.";s:60:"Email addresses of unlisted recipients,
+    comma-separated.";s:12:"Content Help";a:8:{s:7:"General";s:7:"DEFAULT";s:6:"Minute";s:685:"<br />
+    This is the <b>General Help of the Minute module</b><br />
+    <br />
+    This module is meant for the transcription of meeting minutes.<br />
+    Minute is a big and organized module to track and report meetings and its contents.<br />
+    It has many tabs that can be filled with the needed information to register all contents in detail.<br />
+    <br />
+    It has a Grid and a Form, like most of the modules.<br />
+    <br />
+    It has a submodule inside Items tab, which has a little grid and a little form, where you can add and organize
+    the contents of the meeting into categories like Topics, Statements, Todos, Decisions and Dates.<br />
+    <br />
+    <br />";s:10:"Basic data";s:1742:"<br />
+    <b>Basic data tab</b><br />
+    <br />
+    Inside this tab it goes the main information about the Minute.<br />
+    <br />
+    Fields:<br />
+    <br />
+    <ul>
+        <li>
+            <b>Title</b>: title of the Minute.
+        </li>
+        <li>
+            <b>Start</b>: date/time when the meeting starts/started.
+        </li>
+        <li>
+            <b>End</b>: time when the meeting ends/ended.
+        </li>
+        <li>
+            <b>Project</b>: here goes the parent Project; every Project is child of another, at least child of the
+            Root one whose name is the company name.
+        </li>
+        <li>
+            <b>Description</b>: a brief description of the meeting (the contents and subjects themselves will be
+            filled in Items tab).
+        </li>
+        <li>
+            <b>Place</b>: where the meeting takes place.
+        </li>
+        <li>
+            <b>Moderator</b>: name/s of the moderator/s of the meeting.
+        </li>
+        <li>
+            <b>Status</b>: the status of the item, this is supposed to change over time once the meeting takes place
+            and minute's content is filled.<br />
+            The options are self-descriptive:<br />
+            1 - Planned: the first state.<br />
+            2 - Empty.<br />
+            3 - Filled: this status is set automatically when some content is filled inside Items tab.<br />
+            4 - Final: this status makes the item to be read-only, because it is supposed to be finalized.<br />
+            <br />
+            After the status is saved as Final, no content can be modified unless you change it back to Filled state.
+        </li>
+        <li>
+            <b>Tag</b>
+        </li>
+    </ul>
+    <br />
+    <br />";s:6:"People";s:556:"<br />
+    <b>People tab</b><br />
+    <br />
+    This tab allows defining people invited to the meeting, actual attendees and people who are excused.<br />
+    <br />
+    Fields:<br />
+    <br />
+    <ul>
+        <li>
+            <b>Invited</b>: people who is invited to the meeting.
+        </li>
+        <li>
+            <b>Attending</b>: who are going to attend, or have attended the meeting.
+        </li>
+        <li>
+            <b>Excused</b>: people who is not going to, or did not attend the meeting.
+        </li>
+    </ul>
+    <br />
+    <br />";s:6:"Access";s:7:"DEFAULT";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";s:4:"Mail";s:1592:"<br />
+    <b>Mail tab</b><br />
+    <br />
+    This tab allows sending an email that is different from the regular Notification.<br />
+    The focus of the email is the Items tab contents.<br />
+    The contents will be the title of the Minutes item, the description and then all Items tab contents in HTML format
+    and an optional PDF attachment having almost all Basic Data tab info plus People tab info and Items tab Grid
+    contents again.<br />
+    <br />
+    Fields:<br />
+    <br />
+    <b>Recipients</b><br />
+    You can select to whom send this emails in the 'Recipients' Multiple Select box. To select more than one, click on
+    all users you want while holding CTRL key in your keyboard.<br />
+    <br />
+    <b>Additional Recipients</b><br />
+    You can write email addresses of non-listed users, or alternative email addresses for already listed users in
+    'Additional Recipients' textbox, comma-separated.<br />
+    <br />
+    <b>Optional PDF Attachment</b><br />
+    You may click 'Include PDF attachment' to attach a PDF file to the email.<br />
+    The PDF file has almost all Basic Data tab info plus People tab info and Items tab Grid contents again.<br />
+    <br />
+    <b>Send mail</b><br />
+    Press it to Send the email. You will read at the top right of screen the result of the action, the expected message
+    is 'The mail was sent successfully'.<br />
+    <br />
+    <b>Preview</b><br />
+    You can receive a copy of the PDF file previous to sending it pressing 'Preview' button: you will be offered to
+    download the file.<br />
+    <br />
+    <br />";}}s:11:"MinutesItem";a:14:{s:11:"MinutesItem";s:5:"Items";s:5:"Title";s:5:"Title";s:4:"Type";s:4:"Type";s:5:"Topic";s:5:"Topic";s:9:"Statement";s:9:"Statement";s:4:"Todo";s:4:"Todo";s:8:"Decision";s:8:"Decision";s:7:"Comment";s:7:"Comment";s:4:"Date";s:4:"Date";s:3:"Who";s:3:"Who";s:10:"Sort after";s:10:"Sort after";s:43:"This minutes is final and cannot be edited.";s:43:"This minutes is final and cannot be edited.";s:19:"Undefined topicType";s:19:"Undefined topicType";s:12:"Content Help";a:1:{s:5:"Items";s:7265:"<br />
+    <b>Items tab</b><br />
+    <br />
+    Items tab is a submodule inside a tab.<br />
+    It has a Grid at its left and a Form at its right, this right Form is used to fill the left Grid, just like a
+    common module.<br />
+    <br />
+    The Items Grid is intended to show the contents of the meeting ordered and divided by Topics. Each Topic may have
+    Statements, Todos, Decisions and Dates, and according to each of these 5 kind of content for the Grid, different
+    columns of it will be filled.<br />
+    <br />
+    New Items Grid elements are added to the Items Grid from an empty Form or pressing New in the Form, then filling it
+    and pressing Save. To edit or delete existing Items Grid elements click on them and the content will be filled into
+    the Items Form at the right.<br />
+    <br />
+    <hr style='height: 2px;'>
+    <b>GRID</b><br />
+    <br />
+    The purpose is that, when meeting contents are 100% filled in this Tab Grid, it shows all the contents of the
+    meeting ordered, maybe chronologically, and showing behind each Topic row its statements, todos, decisions and
+    dates so that the Grid is a clear representation of all main events and ideas discussed during the meeting.<br />
+    <br />
+    It has many columns but not all of them are used in the five kind of items added from the Form.<br />
+    <br />
+    Columns:<br />
+    <br />
+    <b>Topic</b><br />
+    Each time a item of Topic type row is added to the Grid this column shows an integer that follows the previous one.
+    E.g.: if you add a Topic as the first item for Items Grid, it will show number 1 in this column. If you add another
+    one behind it, it will show number 2.<br />
+    The rest of types of items added here will be under a Topic and will have the Topic's number plus a point and a
+    'inside-Topic' element number. So that if you add a 'Statement' row behind Topic 1, it will show here '1.1'.
+    If there is no any Topic over it, it will show '0.1'.<br />
+    This column shows a value on all types of rows.<br />
+    <br />
+    <b>Title</b><br />
+    This column is used in the five types of rows and represents the title of the row.<br />
+    <br />
+    <b>Type</b><br />
+    May be: Topic, Statement, Todo, Decision or Date.<br />
+    <br />
+    <b>Date</b><br />
+    This column is just used in the rows of the type 'Todo' and 'Date', the Date for doing a Todo or the Date of an
+    event.<br />
+    <br />
+    <b>Who</b><br />
+    This column is just used by Todo type rows. It represents who is going to do the task.<br />
+    <br />
+    <hr style='height: 2px;'>
+    <b>FORM</b><br />
+    <br />
+    This right Form inside Items tab is used to fill the left Grid, just as if it was a common module inside a tab.
+    <br />
+    <br />
+    The Items Grid is intended to show the contents of the meeting ordered and divided by topics; all that contents are
+    filled and defined from this Form.<br />
+    <br />
+    New Items Grid elements are added to the Items Grid from an empty Form or pressing New in the Form, then filling it
+    and pressing Save. To edit or delete existing Items Grid elements click on them and the content will be filled into
+    the Items Form at the right.<br />
+    <br />
+    This form has many fields, how many of them are shown depends on the selection in 'Type' field.<br />
+    <br />
+    <hr style='height: 2px;'>
+    <b>FORM FIELDS</b><br />
+    <br />
+    Fields:<br />
+    <br />
+    <b>Title</b><br />
+    This column is used in the five types of rows and represents the title of them.<br />
+    * Required field<br />
+    <br />
+    <b>Type</b><br />
+    Select: possibilities are Topic, Statement, Todo, Decision and Date.<br />
+    * Required field<br />
+    <br />
+    1 - Topic:<br />
+    This is a subject discussed or exposed in the meeting, it will content other items inside.<br />
+    Each time a item of Topic type is added to the Grid that column shows an integer that follows the previous
+    one.<br />
+    E.g.: if you add a Topic as the first item for Items Grid, it will show number 1 in this column. If you add another
+    one behind it, it will show number 2.<br />
+    The rest of types of items added there will be under a Topic and will have the Topic's number plus a point and a
+    'inside-Topic' element number. So that if you add a 'Statement' row behind Topic 1, it will show here '1.1'.
+    If there is no any Topic over it, it will show '0.1'.<br />
+    That column is used by all types of rows.<br />
+    Fields used by Topic type: Title, Comment and Sort After.<br />
+    <br />
+    2 - Statement<br />
+    This will be shown inside a Topic in the Grid, and is a text representing an idea, a point, a concept, etc.<br />
+    Fields shown in this Form when 'Statement' is selected here: Title, Comment and Sort After.<br />
+    <br />
+    3 - Todo<br />
+    This will be inside a Topic in the Grid and means a planned task to carry out.<br />
+    Fields showed in this Form when 'Todo' is selected here: Title, Comment, Who, Date and Sort After.<br />
+    <br />
+    4 - Decision<br />
+    This will be inside a Topic in the Grid and means a planned task to carry out.<br />
+    Fields showed in this Form when 'Decision' is selected here: Title, Comment and Sort After.<br />
+    <br />
+    5 - Date<br />
+    This will be inside a Topic in the Grid and represents an discussed event or something planned during the meeting.
+    Fields showed in this Form when 'Decision' is selected here: Title, Comment, Date and Sort After.<br />
+    <br />
+    <b>Comment</b><br />
+    Textarea: this field is present in all types of selected Topics and is used to describe the row to be added to
+    Items Grid.<br />
+    <br />
+    <b>Who</b><br />
+    Select: this field is only shown when 'Todo' is the selected Topic and it is used to select the user who is going
+    to carry out the planned task.<br />
+    <br />
+    <b>Date</b><br />
+    Date: this field is just shown when 'Todo' or 'Date' are the selected Topics and it is used to establish when the
+    task is going to be carried out or when the event is going to take place, respectively.<br />
+    <br />
+    <b>Sort After</b><br />
+    Select: this is a very important field, it is used for establishing the order of each row: when you create or edit
+    a row, here you select 'after which' one it will be located in the left grid. You can re-arrange a whole listing
+    clicking on each row in the Grid, changing its 'Sort after' value in the Form and then clicking Save.<br />
+    <br />
+    <hr style='height: 2px;'>
+    <b>FORM BUTTONS</b><br />
+    <br />
+    Buttons are shown at the bottom of Form fields, which ones are shown depends on the state of the Form: if you are
+    editing an item: Save, Delete and New will be shown, if not, just Save will be enough.<br />
+    <br />
+    <b>New</b><br />
+    Just shown when editing an item of Items Grid. Changes made to the Form will be lost when pressed, if any, and an
+    empty Form will be opened.<br />
+    <br />
+    <b>Save</b><br />
+    Shown when editing a row of the Grid, press it to apply changes.<br />
+    <br />
+    <b>Delete</b><br />
+    Shown after clicking a row of the Grid, press it to delete it.<br />
+    <br />
+    <br />";}}s:4:"Note";a:5:{s:4:"Note";s:4:"Note";s:5:"Title";s:5:"Title";s:8:"Comments";s:8:"Comments";s:7:"Project";s:7:"Project";s:12:"Content Help";a:6:{s:7:"General";s:7:"DEFAULT";s:4:"Note";s:362:"<br />
+    This is the <b>General Help of Note module</b><br />
+    <br />
+    The Note is just a module to leave notes and associate them to a Project or Subproject.<br />
+    <br />
+    The module has the same general characteristics than other modules like having the tabs <b>Access</b>,
+    <b>Notification</b> and <b>History</b>.<br />
+    <br />
+    <br />";s:10:"Basic data";s:667:"<br />
+    <b>Basic Data tab</b><br />
+    <br />
+    Fields:<br />
+    <br />
+    <b>Title</b><br />
+    Text: the title of the item, e.g.: 'How to choose a notebook'.<br />
+    * Required field<br />
+    <br />
+    <b>Comment</b><br />
+    Textarea: some descriptive comment.<br />
+    E.g.:<br />
+    1 - Compare quality and prices<br />
+    2 - Test it<br />
+    3 - Consult the team<br />
+    <br />
+    <b>Project</b><br />
+    Select: parent Project which contains the note, if none then select PHProjekt.<br />
+    * Required field<br />
+    <br />
+    <b>Tag</b><br />
+    The tag field that synchronizes the item with Tags panel.<br />
+    <br />
+    <br />";s:6:"Access";s:7:"DEFAULT";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}}s:7:"Project";a:23:{s:7:"Project";s:7:"Project";s:5:"Title";s:5:"Title";s:5:"Notes";s:5:"Notes";s:6:"Parent";s:6:"Parent";s:10:"Start date";s:10:"Start date";s:8:"End date";s:8:"End date";s:8:"Priority";s:8:"Priority";s:14:"Current status";s:14:"Current status";s:7:"Offered";s:7:"Offered";s:7:"Ordered";s:7:"Ordered";s:7:"Working";s:7:"Working";s:5:"Ended";s:5:"Ended";s:7:"Stopped";s:7:"Stopped";s:9:"Re-Opened";s:9:"Re-Opened";s:7:"Waiting";s:7:"Waiting";s:16:"Complete percent";s:16:"Complete percent";s:6:"Budget";s:6:"Budget";s:16:"Hourly wage rate";s:16:"Hourly wage rate";s:7:"Contact";s:7:"Contact";s:64:"The deletion of a project and its subprojects might take a while";s:64:"The deletion of a project and its subprojects might take a while";s:7:"Tooltip";a:1:{s:9:"projectId";s:50:"The parent project, if none then select PHProjekt.";}s:12:"Content Help";a:8:{s:7:"General";s:7:"DEFAULT";s:7:"Project";s:3016:"<br />
+    This is the <b>General Help of Project module</b><br />
+    <br />
+    The Projects are the most important functional part of the system. The user creates a Project to work with, and then
+    loads all the data on the Project itself plus the associated modules that were activated for it (view Module tab
+    inside a project). As time goes by, data can be added or modified.<br />
+    <br />
+    The owner and users with appropriate permissions can give specific rights to the users they want on a specific
+    Project, like roles or just individual rights for them to access it, see its content and maybe modify it.<br />
+    <br />
+    The Project module has another modules associated that are part of it. Those associations are defined in Module tab,
+    which can be seen when editing the Project itself. The modules that come with the original release of the
+    system and can be associated will be called in this help as <b>General modules</b> and they are Project, Gantt,
+    Statistic, Todo, Note, Filemanager, Minute and Helpdesk.<br />
+    <br />
+    Those general modules can be accessed from:<br />
+    <br />
+    <ul>
+        <li>
+            <b>The root Project:</b> you click on the logo and the Project module opens, with all the main Projects
+            listed in the grid. Those are the Projects associated to the root of the system. You will see all the
+            general modules in the main upper tab bar, if you enter there, you will see items of that modules that are
+            not associated to any project. Actually when they don't belong to any project, they belong to 'PHProjekt'
+            that is the root Project, the one that is parent of all the main projects).<br />
+            If you want to see the main information of the Project you can click it in the grid and its main tabs get
+            open in the form down. But if you want to see the items of the general modules that are directly associated
+            to that Project, you have to access it from the tree, as explained in the next point here.
+        </li>
+        <li>
+            <b>The tree:</b> the tree panel at the left permits accessing to the Projects and Subprojects in a full
+            way, it means that the main tab bar will show the <b>Basic Data</b> tab plus the modules <i>associated</i>
+            to the Project and if you enter them from that link you will see all  the items of that modules that are
+            exclusively associated to that Project (or Subproject) clicked in the tree.
+        </li>
+    </ul>
+    <br />
+    To see the help of that modules please click on the tab of that module (both in the root Project or a particular
+    Project) and then click on the Help top right link.<br />
+    <br />
+    For specific help about every Project tab, see the other tabs of this help.<br />
+    <br />
+    Projects may have subprojects and many other properties that you can start to learn reading <b>Basic Data</b> tab
+    inside this help.<br />
+    <br />
+    <br />";s:10:"Basic data";s:1162:"<br />
+    <b>Basic data tab</b><br />
+    <br />
+    Inside this tab it goes the main information about the Project.<br />
+    <br />
+    Fields:<br />
+    <br />
+    <ul>
+        <li>
+            <b>Title</b>: title of the Project.
+        </li>
+        <li>
+            <b>Notes</b>: notes about the Project.
+        </li>
+        <li>
+            <b>Project</b>: here goes the parent Project; every Project is child of another, at least child of the Root
+            one whose name is the company name.
+        </li>
+        <li>
+            <b>Start Date</b>
+        </li>
+        <li>
+            <b>End Date</b>
+        </li>
+        <li>
+            <b>Priority</b>
+        </li>
+        <li>
+            <b>Status</b>: may be one of the following: Offered, Ordered, Working, Ended, Stopped, Re-Opened and
+            Waiting.
+        </li>
+        <li>
+            <b>Percentage completed</b>
+        </li>
+        <li>
+            <b>Budget</b>
+        </li>
+        <li>
+            <b>Contact</b>: contacts list from Contact module for you to choose one.
+        </li>
+        <li>
+            <b>Tag</b>
+        </li>
+    </ul>
+    <br />
+    <br />";s:6:"Access";s:7:"DEFAULT";s:6:"Module";s:1643:"<br />
+    <b>Module tab</b><br />
+    <br />
+    This tab has a list of all the modules that can be associated to the project.<br />
+    <br />
+    The modules that appear checked will be seen as tabs at the sides of the Basic Data
+    tab, when you access to the Project from the tree.<br />
+    <br />
+    The modules that can be associated to a Project inside Module tab so that all their items will have that Project as
+    their parent are called Project-modules and they are:<br />
+    <br />
+    <b>Gantt</b><br />
+    This module is a Gantt chart interface, mouse editable, which is automatically synchronized to the Project data
+    loaded in the database.<br />
+    <br />
+    <b>Statistic</b><br />
+    This module sums all the worked hours, classifies them by Projects and Sub-Projects and shows them in a chart table.
+    <br />
+    <br />
+    <b>Todo</b><br />
+    The Todo is a module to store To-Do items and assign them to a user.<br />
+    <br />
+    <b>Note</b><br />
+    The Note is just a module to leave notes and associate them to a Project or Subproject.<br />
+    <br />
+    <b>Filemanager</b><br />
+    The File manager is a module defined exclusively for uploading and downloading files from the system.<br />
+    <br />
+    <b>Minute</b><br />
+    This module is meant for the transcription of meeting minutes.<br />
+    <br />
+    <b>Helpdesk</b><br />
+    The Helpdesk is a module to report and track bugs or issues that must be solved inside whatever context.<br />
+    <br />
+    <br />
+    Note: all these modules are explained in detail inside its appropriate section of the help.<br />
+    <br />
+    <br />";s:4:"Role";s:1569:"<br />
+    <b>Role tab</b><br />
+    <br />
+    This tab permits assigning roles to the users.<br />
+    A Role is a specific set of permissions defined for each module. They are set in <b>Administration -&#62; Role</b>.
+    For example a role could be 'Admin in all modules' or 'Admin in Filemanager, read only in the rest'.<br />
+    The final right for a specific user to work with an item is defined by the conjunction of what is defined both
+    inside Role and Access tabs.<br />
+    <br />
+    By default, no Role is assigned to anybody, and the right to a new project will be <b>Admin</b> access for the
+    creator and nothing for the rest. This changes when permissions are assigned in the <b>Access</b> and <b>Role</b>
+    tabs.<br />
+    <br />
+    For example, a specific Role can give Admin access to Todo module and just Read access for Helpdesk module. It means
+    that if a user has that Role assigned for a Project, then he/she will be able to do everything with the Todo items
+    that have that Project as parent but will just be able to see, and not modify Helpdesk items that also have that
+    Project as parent.<br />
+    <br />
+    Notes:<br />
+    <ul>
+        <li>
+            Each Role scope is defined by Admin users in Administration module.
+        </li>
+        <li>
+            Important: when a Project doesn't have any Roles defined, then it inherits its parent Roles.
+        </li>
+        <li>
+            Roles don't affect top right linked Global modules like Calendar, Contact, etc.
+        </li>
+    </ul>
+    <br />
+    <br />";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}s:61:"There must be no slashes in project names for WebDAV to work.";s:61:"There must be no slashes in project names for WebDAV to work.";}s:9:"Statistic";a:9:{s:9:"Statistic";s:9:"Statistic";s:7:"Project";s:7:"Project";s:3:"Sum";s:3:"Sum";s:5:"Total";s:5:"Total";s:6:"Period";s:6:"Period";s:37:"End time can not be before Start time";s:37:"End time can not be before Start time";s:25:"Selected Statistic Period";s:25:"Selected Statistic Period";s:59:"Choose here the period for the statistics to be calculated.";s:59:"Choose here the period for the statistics to be calculated.";s:12:"Content Help";a:2:{s:7:"General";s:7:"DEFAULT";s:9:"Statistic";s:1630:"<br />
+    <b>Statistic tab</b><br />
+    <br />
+    This is a very simple module, it shows all the worked hours for each user on the Projects you have at least Read
+    access to, classifying them by Projects (and Sub-Projects) showing them in an organized chart table.<br />
+    Those worked hours correspond to the ones the users have charged using Timecard module.<br />
+    <br />
+    There is a panel over it, 'Selected Statistic Timeline' that allows you to specify the period for the module to
+    calculate the hours in.<br />
+    <br />
+    <hr style='height: 2px;'>
+    <b>Selected Statistic Period</b><br />
+    <br />
+    This panel up the Projects time table, allows you to select a specific period of time for the table.<br />
+    It means that, for example, if you choose in both fields 2009-01-01 and 2009-01-31 respectively, and press the
+    checkbox button, the table will be done according to the hours charged in Timecard for that period.<br />
+    <br />
+    <hr style='height: 2px;'>
+    <b>Projects table</b><br />
+    <br />
+    <br />
+    <b>Listed Projects</b><br />
+    <br />
+    The Projects that are listed in the rows are those the logged user has at least Read access to.<br />
+    <br />
+    <b>Listed Users</b><br />
+    <br />
+    The Users that appear in the columns are those who have charged at least one item in the Timecard for that Project,
+    inside the selected period above.<br />
+    <br />
+    <b>Final Row: Total</b><br />
+    <br />
+    This row sums all values for each column: each user's worked hours plus the total worked hours for all users.<br />
+    <br />
+    <br />
+    ";}}s:8:"Timecard";a:26:{s:8:"Timecard";s:8:"Timecard";s:5:"Start";s:5:"Start";s:3:"End";s:3:"End";s:7:"Minutes";s:7:"Minutes";s:7:"Project";s:7:"Project";s:5:"Notes";s:5:"Notes";s:5:"Hours";s:5:"Hours";s:11:"Time period";s:11:"Time period";s:43:"Start time has to be between 0:00 and 24:00";s:43:"Start time has to be between 0:00 and 24:00";s:25:"The start time is invalid";s:25:"The start time is invalid";s:95:"Can not Start Working Time because this moment is occupied by an existing period or an open one";s:95:"Can not Start Working Time because this moment is occupied by an existing period or an open one";s:41:"The end time must be after the start time";s:41:"The end time must be after the start time";s:41:"End time has to be between 0:00 and 24:00";s:41:"End time has to be between 0:00 and 24:00";s:23:"The end time is invalid";s:23:"The end time is invalid";s:78:"Can not End Working Time because this moment is occupied by an existing period";s:78:"Can not End Working Time because this moment is occupied by an existing period";s:39:"The entry overlaps with an existing one";s:39:"The entry overlaps with an existing one";s:19:"Manage project list";s:19:"Manage project list";s:36:"Drag the projects from left to right";s:36:"Drag the projects from left to right";s:11:"Total hours";s:11:"Total hours";s:10:"Unassigned";s:10:"Unassigned";s:18:"Start working time";s:18:"Start working time";s:17:"Stop working time";s:17:"Stop working time";s:23:"Click for open the form";s:23:"Click for open the form";s:60:"Favorite projects appear first in the select box of the form";s:60:"Favorite projects appear first in the select box of the form";s:17:"Favorite projects";s:17:"Favorite projects";s:12:"Content Help";a:7:{s:7:"General";s:7:"DEFAULT";s:8:"Timecard";s:1945:"<br />
+    This is the <b>General Help for Timecard</b><br />
+    <br />
+    Timecard is a module designed to assign working times to Projects so that it is kept a record about what the people
+    involved in the Projects have worked in, and how much time have they spent on each thing.<br />
+    These times will also impact on Statistic module.<br />
+    <br />
+    <br />
+    <b>Sections of the module</b><br />
+    <br />
+    It has a month section at the left which shows all days of selected month and booked time for each one for the
+    logged user. On bottom the booked amounts for each day, there is the sum of all them.<br />
+    Each day is a link for you to click on and load its contents in the Day section, in the middle of the screen.<br />
+    There is also a Date type field on top that permits to change not only the day but also the month and year
+    both showed in Month left view and the Day view.
+    <br />
+    In the middle of the screen there is a schedule for the day. The purpose of it is that the user may perceive
+    graphically the amount of time worked for selected day and the Projects involved.<br />
+    Clicking on the [+] icon or in a booked box, a pop-up appear with the form for add, edit and delete Project bookings.
+    <br />
+    <br />
+    There is an export button on the top left of the module that exports in CSV file format all booked times for logged
+    user and selected month.<br />
+    Near it there is the 'Manage project list' button that provides a dialog for manage the favorites projects that
+    will appear first on the project selection in the form.<br />
+    <br />
+    <br />
+    <b>Overlapping times error</b><br />
+    <br />
+    When you try to add or edit a booking so that some of its time overlaps part of the time of another booking, an
+    internal checking will bring up an error for you to correct the start and end time of it and/or the date.<br />
+    <br />
+    <br />";s:5:"Month";s:1179:"<br />
+    <b>Month section</b><br />
+    <br />
+    The Date field allows selecting a day to show in the schedule. Also, the selected month will be loaded into
+    this section.<br />
+    <br />
+    Month section is a list of the days for the selected month which shows at the right side of each day the booked
+    time for the logged user on that day. On bottom the booked amounts for each day, there is the total amount of the
+    month.<br />
+    <br />
+    Each listed day is a link to load it onto the center Day section; if you click on any day of the list, the Day
+    schedule will load all booked Projects for that day, if any, and the Date field on top of this section will be
+    filled with that date.<br />
+    <br />
+    To change the listed month, select a date of any month in the Date field over this section and click its check
+    button.<br />
+    <br />
+    <br />
+    <b>Colors</b><br />
+    <br />
+    The weekend days have grey color, the rest of them are black.<br />
+    <br />
+    If there is an open period in any day, its total time will be red colored so that the user can notice there is
+    something unfinished there.<br />
+    <br />
+    <br />";s:3:"Day";s:1160:"<br />
+    <b>Day section</b><br />
+    <br />
+    Day section is located in the center of the Timecard view.<br />
+    It has a schedule showing all time of the day with its Project bookings inside, if any.<br />
+    <br />
+    <br />
+    <b>Rows</b><br />
+    <br />
+    The schedule is formed by 48 rows; one per half hour.<br />
+    Each row has a (+) plus sign to add a booking for that time. If you press it the selected Date and Time will be
+    loaded into the Form in field Start. The End Time will be filled automatically, its value is one hour after
+    Start Time.<br />
+    <br />
+    <br />
+    <b>Bookings</b><br />
+    <br />
+    The bookings are shown as a rectangle that occupies an area proportional to its length in time.
+    It has the name of the booked Project inside.<br />
+    The purpose is that the user can perceive graphically the amount of time worked and the Projects involved.<br />
+    You may click on a Project to open it in the Form and modify its contents or delete it.<br />
+    <br />
+    Note: the open periods are shown in red color, they will become 'normal' when their end time get filled.<br />
+    <br />
+    <br />";s:4:"Form";s:1967:"<br />
+    <b>Form section</b><br />
+    <br />
+    The Form provides a couple of fields to add or edit bookings.<br />
+    <br />
+    You can add an item pressing the (+) plus sign in the center schedule and the Form will be loaded with the Date and
+    Time pressed, and End time set to 1 hour after Start Time. You select a Project, write a Note and press Save to add
+    it.<br />
+    To edit a booking, click on it inside the day schedule; its contents will be loaded into the Form. Make changes and
+    press Save, or just press Delete to take out the booking from the schedule.<br />
+    <br />
+    <br />
+    Form fields:<br />
+    <br />
+    <b>Start</b><br />
+    Date/time: the date and time for the booking start.<br />
+    This field is automatically filled in the following cases.<br />
+    1 - When you click on a date of the left Month section -> clicked date and current time<br />
+    2 - When you select a date up the day schedule and press the check button -> selected date and current time<br />
+    3 - When you click on a booking in the day schedule -> start date and time of booking<br />
+    4 - When you click on a (+) plus button of a specific row of the day schedule -> active date and clicked row
+    time<br />
+    <br />
+    <b>End Time</b><br />
+    Time: end time for the booking.<br />
+    It is automatically filled in the following cases.<br />
+    1 - When you click on a booking in the day schedule -> the end time of it<br />
+    2 - When you click on a (+) plus button of a specific row of the day schedule -> one hour after clicked row
+    time<br />
+    <br />
+    <b>Project</b><br />
+    Select: the booked Project.<br />
+    All the favorites projects will appear first, then all the rest.<br />
+    <br />
+    <b>Notes</b><br />
+    Textarea (without HTML mode): a Note with some description of the booking.<br />
+    It is automatically filled when you click on a booking of the day schedule.<br />
+    <br />
+    <br />";s:17:"Favorite Projects";s:1058:"<br />
+    <br />
+    <b>Managing favorite Projects list</b><br />
+    <br />
+    When you press 'Manage project list' button, a little pop-up window appears. It has two panels. The left one shows
+    all Projects and Sub-Projects you are involved in, it allows you to drag and drop each Project with the mouse to the
+    second panel, at the right. That right panel is the one that has the Projects that will be seen under the Form when
+    you save changes pressing the Check button and this window gets closed.<br />
+    <br />
+    If you want to take out a Project from the right panel of this pop-up window, drag and drop it back to the left
+    panel using the mouse.<br />
+    <br />
+    When you have finished doing the changes, press the Check button to save and close the pop-up window. The new
+    Projects listing appears under the Form. Each Project is shown as a yellow ochre color rectangle with curved
+    ends.<br />
+    Projects available to be added to favorites list are those you have at least Read access to.<br />
+    <br />
+    <br />";s:13:"Booking times";s:447:"<br />
+    <br />
+    <b>Clicking a (+) plus button in a schedule row</b><br />
+    <br />
+    Each row of the schedule has a (+) plus button to add a booking for that time. If you press it the selected Date
+    and Time will be loaded into the Form in field Start, and the Form will get into Add mode and End Time will be
+    filled automatically as one hour after Start Time, Project and Notes fields will be emptied.<br />
+    <br />
+    <br />";}}s:4:"Todo";a:16:{s:4:"Todo";s:4:"Todo";s:5:"Title";s:5:"Title";s:5:"Notes";s:5:"Notes";s:10:"Start date";s:10:"Start date";s:8:"End date";s:8:"End date";s:8:"Priority";s:8:"Priority";s:14:"Current status";s:14:"Current status";s:7:"Waiting";s:7:"Waiting";s:8:"Accepted";s:8:"Accepted";s:7:"Working";s:7:"Working";s:7:"Stopped";s:7:"Stopped";s:5:"Ended";s:5:"Ended";s:7:"Project";s:7:"Project";s:4:"User";s:4:"User";s:7:"Tooltip";a:1:{s:9:"projectId";s:50:"The parent project, if none then select PHProjekt.";}s:12:"Content Help";a:6:{s:7:"General";s:7:"DEFAULT";s:4:"Todo";s:347:"<br />
+    This is the <b>General Help of Todo module</b><br />
+    <br />
+    The Todo is a module to store To-Do items and assign them to a user.<br />
+    <br />
+    They are always associated to a Project or Subproject and have a Start date, End date, Priority, State and
+    other fields to configure all its data.<br />
+    <br />
+    <br />";s:10:"Basic data";s:1815:"<br />
+    <b>Basic Data tab</b><br />
+    <br />
+    Fields:<br />
+    <br />
+    <b>Title</b><br />
+    Text: the title of the item, e.g.: 'Buy 5 notebooks for the team'.<br />
+    * Required field<br />
+    <br />
+    <b>Notes</b><br />
+    Textarea: some descriptive note.<br />
+    E.g.:<br />
+    1 - Compare quality and prices<br />
+    2 - Consult the team<br />
+    3 - Buy and bring them here<br />
+    <br />
+    <b>Project</b><br />
+    Select: parent Project which contains the to-do, if none then select PHProjekt.<br />
+    * Required field<br />
+    <br />
+    <b>Start Date</b><br />
+    Date: when task is planned to start, or indeed started.<br />
+    <br />
+    <b>End Date</b><br />
+    Date: when task is planned to end, or indeed ended.<br />
+    <br />
+    <b>Priority</b><br />
+    Select: a number between 1 and 10 for the priority. When you have many items in the Grid, you can sort them into
+    the priority clicking the header of that column. It may be ranked in ascending or descending order.<br />
+    <br />
+    <b>Status</b><br />
+    Select: the status of the item, this is supposed to change over time, as the task advances.<br />
+    The options are self-descriptive:<br />
+    1 - Waiting<br />
+    2 - Accepted<br />
+    3 - Working<br />
+    4 - Stopped<br />
+    5 - Ended<br />
+    <br />
+    <b>User</b><br />
+    A user the task has been assigned to. He is the one to do it.<br />
+    There are some permissions added automatically to the assigned user, if any: Read, Write and Delete ones, so that
+    he/she can work on the item. The permissions will be added after the item is saved and will be seen next time it is
+    open, in Access tab.<br />
+    <br />
+    <b>Tag</b><br />
+    The tag field that synchronizes the item with Tags panel.<br />
+    <br />
+    <br />";s:6:"Access";s:7:"DEFAULT";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}}}

@@ -1,0 +1,65 @@
+{
+
+"6.1.0-beta1":
+{
+    "structure":
+    {
+        "user_proxy":
+        {
+            "create":
+            {
+                "id":          "default",
+                "proxyed_id":  {"type": "int", "notNull": "true"},
+                "proxying_id": {"type": "int", "notNull": "true"}
+            }
+        }
+    }
+},
+
+"6.1.0-dev":
+{
+    "structure":
+    {
+        "uploaded_unused_files":
+        {
+            "create":
+            {
+                "id":      "default",
+                "created": {"type": "datetime", "notNull": "true"},
+                "hash":    {"type": "varchar", "length": "32", "notNull": "true"}
+            }
+        }
+    }
+},
+
+"6.1.4":
+{
+    "structure":
+    {
+        "tags_modules_items":
+        {
+            "create":
+            {
+                "id":        "default",
+                "tag_id":    {"type": "int", "notNull": "true"},
+                "module_id": {"type": "int", "notNull": "true"},
+                "item_id":   {"type": "int", "notNull": "true"}
+            }
+        }
+    }
+},
+
+"6.1.5": {
+    "structure": {
+        "project": {
+            "createIndex": {
+                "columns": ["title", "project_id"],
+                "unique":  "true"
+            }
+        }
+    }
+},
+
+"6.2.1": {}
+
+}

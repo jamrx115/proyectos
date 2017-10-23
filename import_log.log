@@ -1,0 +1,1648 @@
+[06/Oct/2016:15:51:29](0)Error while Creaction of activity: Elaboración de Análisis funcional de procesos y productos  involucrados en los proyectos seleccionados (FPA´s) with Period: End date can not be before Start date
+[06/Oct/2016:15:51:30](0)Error while Creaction of activity: Análisis y elaboración del plan de pruebas para el proyecto 2 with Period: End date can not be before Start date
+[06/Oct/2016:15:51:31](0)Error while Creaction of activity: Listas de chequeo Aquitectura y Funcional with Period: End date can not be before Start date
+[06/Oct/2016:15:51:32](0)Error while Creaction of activity: Especificación de requermientos de pruebas funcionales with Period: End date can not be before Start date
+[06/Oct/2016:15:51:32](0)Error while Creaction of activity: Construcción de scripts de prueba (Performance) with Period: End date can not be before Start date
+[06/Oct/2016:15:51:33](0)Error while Creaction of activity: Validación de accesos y conexiones with Period: End date can not be before Start date
+[06/Oct/2016:15:51:33](0)Error while Creaction of activity: Preparación datos de prueba with Period: End date can not be before Start date
+[06/Oct/2016:16:33:30](0)Error while Creaction of activity: Elaboración de Análisis funcional de procesos y productos  involucrados en los proyectos seleccionados (FPA´s) with Period: End date can not be before Start date
+[06/Oct/2016:16:33:30](0)Row content: Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Elaboración de Análisis funcional de procesos y productos  involucrados en los proyectos seleccionados (FPA´s)
+    [5] =>         AT_FPA
+    [6] => 10/09/2016
+    [7] => 15/09/2016
+    [8] => 2;3;4
+
+)
+
+[06/Oct/2016:16:33:31](0)Error while Creaction of activity: Análisis y elaboración del plan de pruebas para el proyecto 2 with Period: End date can not be before Start date
+[06/Oct/2016:16:33:31](0)Row content: Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Análisis y elaboración del plan de pruebas para el proyecto 2
+    [5] =>         Documento de plan de proyecto  de pruebas detallado
+    [6] => 6/09/2016
+    [7] => 13/09/2016
+    [8] => 4
+
+)
+
+[06/Oct/2016:16:33:32](0)Error while Creaction of activity: Listas de chequeo Aquitectura y Funcional with Period: End date can not be before Start date
+[06/Oct/2016:16:33:32](0)Row content: Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Listas de chequeo Aquitectura y Funcional
+    [5] => LC- Arquitectura y funcional
+    [6] => 6/09/2016
+    [7] => 13/09/2016
+    [8] => 3
+
+)
+
+[06/Oct/2016:16:33:33](0)Error while Creaction of activity: Especificación de requermientos de pruebas funcionales with Period: End date can not be before Start date
+[06/Oct/2016:16:33:33](0)Row content: Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Especificación de requermientos de pruebas funcionales
+    [5] =>         AT-TCD & TESLINK
+    [6] => 6/09/2016
+    [7] => 13/09/2016
+    [8] => 2
+
+)
+
+[06/Oct/2016:16:33:33](0)Error while Creaction of activity: Construcción de scripts de prueba (Performance) with Period: End date can not be before Start date
+[06/Oct/2016:16:33:33](0)Row content: Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Construcción de scripts de prueba (Performance)
+    [5] =>         Scripts (Se debe registrar un estandar para el nombre de scripts y formato de documentación de los mismos)
+    [6] => 10/09/2016
+    [7] => 24/09/2016
+    [8] => 2
+
+)
+
+[06/Oct/2016:16:33:34](0)Error while Creaction of activity: Validación de accesos y conexiones with Period: End date can not be before Start date
+[06/Oct/2016:16:33:34](0)Row content: Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Validación de accesos y conexiones
+    [5] =>         PDTE-IDENTIFICACION DE ARTEFACTO O REGISTRO
+    [6] => 11/09/2016
+    [7] => 17/09/2016
+    [8] => 3
+
+)
+
+[06/Oct/2016:16:33:35](0)Error while Creaction of activity: Preparación datos de prueba with Period: End date can not be before Start date
+[06/Oct/2016:16:33:35](0)Row content: Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Preparación datos de prueba
+    [5] =>         AT-TCD & TESLINK
+    [6] => 11/09/2016
+    [7] => 17/09/2016
+    [8] => 2;3
+
+)
+
+[25/Aug/2017:22:53:32](0)Ruta Resource id #117
+[25/Aug/2017:22:56:10](0)Ruta /home/alltic/public_html/televida/proyectos/data/upload/7c8e6d0ac63d8ccad8dd1dd3ba053427
+[25/Aug/2017:23:01:19](0)Raw Array
+(
+    [0] => Televida
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => 
+    [6] => 8/01/2017
+    [7] => 8/02/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:19](0)Raw Array
+(
+    [0] => 
+    [1] => TVIDA GuiaSaludFase2
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => 
+    [6] => 8/03/2017
+    [7] => 8/04/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:20](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 01-Iniciación
+    [3] => 
+    [4] => 
+    [5] => 
+    [6] => 8/05/2017
+    [7] => 8/06/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:20](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => Gerencia de proyectos
+    [4] => 
+    [5] => 
+    [6] => 8/07/2017
+    [7] => 8/08/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:20](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Setup de ambiente de Integracion Continua
+    [5] => 
+    [6] => 8/09/2017
+    [7] => 8/10/2017
+    [8] => 2
+)
+
+[25/Aug/2017:23:01:20](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 02-Frontend
+    [3] => 
+    [4] => 
+    [5] => 
+    [6] => 8/11/2017
+    [7] => 8/12/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:21](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => Entrega de mensajes en SMS-app-web frontend
+    [4] => 
+    [5] => 
+    [6] => 08/13/2017
+    [7] => 08/14/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:21](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Analisis
+    [5] => 
+    [6] => 08/15/2017
+    [7] => 08/16/2017
+    [8] => 4
+)
+
+[25/Aug/2017:23:01:21](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Documentacion
+    [5] => 
+    [6] => 08/17/2017
+    [7] => 08/18/2017
+    [8] => 4
+)
+
+[25/Aug/2017:23:01:22](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Entrega de mensaje diario secuencial en SMS (en etapa de presuscripcion, que no depende de cobro exitoso)
+    [5] => 
+    [6] => 08/19/2017
+    [7] => 08/20/2017
+    [8] => 4
+)
+
+[25/Aug/2017:23:01:22](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Consumo de WS de entrega de cupones por sms y app, de acuerdo al dia del usuario
+    [5] => 
+    [6] => 08/21/2017
+    [7] => 08/22/2017
+    [8] => 4
+)
+
+[25/Aug/2017:23:01:22](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Mostrar los push notifications en el celular de usuarios smartphone de acuerdo a logica de entrega de mensajes secuencial
+    [5] => 
+    [6] => 08/23/2017
+    [7] => 08/24/2017
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:23](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => nuevo chat 1:1 con especialistas en Titanium app y web
+    [4] => 
+    [5] => 
+    [6] => 08/25/2017
+    [7] => 08/26/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:23](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Analisis
+    [5] => 
+    [6] => 08/27/2017
+    [7] => 08/28/2017
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:23](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Diseño y documentacion de como funciona
+    [5] => 
+    [6] => 08/29/2017
+    [7] => 08/30/2017
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:24](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Codificacion componente televida-chat<tech>
+    [5] => 
+    [6] => 08/31/2017
+    [7] => 9/01/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:24](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Modificacion componente visual
+    [5] => 
+    [6] => 9/02/2017
+    [7] => 9/03/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:24](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Pruebas de integracion con el backend
+    [5] => 
+    [6] => 9/04/2017
+    [7] => 9/05/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:25](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Documentacion
+    [5] => 
+    [6] => 9/06/2017
+    [7] => 9/07/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:25](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => Nuevo chat 1:N (Foro) en Titanium app y web
+    [4] => 
+    [5] => 
+    [6] => 9/08/2017
+    [7] => 9/09/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:25](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Analisis
+    [5] => 
+    [6] => 9/10/2017
+    [7] => 9/11/2017
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:25](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Diseño y documentacion de como funciona
+    [5] => 
+    [6] => 9/12/2017
+    [7] => 09/13/2017
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:26](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Codificacion componente televida-chat<tech>
+    [5] => 
+    [6] => 09/14/2017
+    [7] => 09/15/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:26](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Modificacion componente visual
+    [5] => 
+    [6] => 09/16/2017
+    [7] => 09/17/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:26](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Pruebas de integracion con el backend
+    [5] => 
+    [6] => 09/18/2017
+    [7] => 09/19/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:27](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Documentacion
+    [5] => 
+    [6] => 09/20/2017
+    [7] => 09/21/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:27](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => Front PBL (pantallas app y web)
+    [4] => 
+    [5] => 
+    [6] => 09/22/2017
+    [7] => 09/23/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:28](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Analisis
+    [5] => 
+    [6] => 09/24/2017
+    [7] => 09/25/2017
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:28](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Diseño y documentacion de como funciona
+    [5] => 
+    [6] => 09/26/2017
+    [7] => 09/27/2017
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:28](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Logica de puntos por eventos
+    [5] => 
+    [6] => 09/28/2017
+    [7] => 09/29/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:29](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Entrega de diseño UI pantallas
+    [5] => 
+    [6] => 09/30/2017
+    [7] => 10/01/2017
+    [8] => 7
+)
+
+[25/Aug/2017:23:01:29](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Pantalla listado de ranking top 10
+    [5] => 
+    [6] => 10/02/2017
+    [7] => 10/03/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:29](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Pantalla listado de medallas
+    [5] => 
+    [6] => 10/04/2017
+    [7] => 10/05/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:30](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Pantalla listado de insignias
+    [5] => 
+    [6] => 10/06/2017
+    [7] => 10/07/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:30](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Pantalla de listado de premios entragados mensualmente
+    [5] => 
+    [6] => 10/08/2017
+    [7] => 10/09/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:31](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => opcion de compartir insignias y medallas por redes sociales
+    [5] => 
+    [6] => 10/10/2017
+    [7] => 10/11/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:31](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Pruebas de integracion en ambiente de pruebas
+    [5] => 
+    [6] => 10/12/2017
+    [7] => 10/13/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:31](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Documentacion
+    [5] => 
+    [6] => 10/14/2017
+    [7] => 10/15/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:32](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => JWT frontend para app
+    [4] => 
+    [5] => 
+    [6] => 10/16/2017
+    [7] => 10/17/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:32](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Analisis
+    [5] => 
+    [6] => 10/18/2017
+    [7] => 10/19/2017
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:32](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Diseño de como funciona
+    [5] => 
+    [6] => 10/20/2017
+    [7] => 10/21/2017
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:33](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Adaptar la app Guia Salud para que pueda obtener token del JWT server
+    [5] => 
+    [6] => 10/22/2017
+    [7] => 10/23/2017
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:33](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Usar token para llamar las peticiones entre app y backend
+    [5] => 
+    [6] => 10/24/2017
+    [7] => 10/25/2017
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:33](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Pruebas en ambiente de pruebas 
+    [5] => 
+    [6] => 10/26/2017
+    [7] => 10/27/2017
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:34](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 03-Backend
+    [3] => 
+    [4] => 
+    [5] => 
+    [6] => 10/28/2017
+    [7] => 10/29/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:34](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => Instalacion del Push notification Server
+    [4] => 
+    [5] => 
+    [6] => 10/30/2017
+    [7] => 10/31/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:34](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Analisis de compatibilidad entre Push Server Onesignal SDK y Titanium 3.x
+    [5] => 
+    [6] => 11/01/2017
+    [7] => 11/02/2017
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:35](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Consumir APIs del servidor Push en la nube (Onesignal)
+    [5] => 
+    [6] => 11/03/2017
+    [7] => 11/04/2017
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:35](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => Entrega de mensajes backend
+    [4] => 
+    [5] => 
+    [6] => 11/05/2017
+    [7] => 11/06/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:35](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Analisis
+    [5] => 
+    [6] => 11/07/2017
+    [7] => 11/08/2017
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:36](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Diseño y documentacion de como funciona
+    [5] => 
+    [6] => 11/09/2017
+    [7] => 11/10/2017
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:36](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Implementacion logica bolsa de citas (acumulacion de citas x dia x usuario)
+    [5] => 
+    [6] => 11/11/2017
+    [7] => 11/12/2017
+    [8] => 4
+)
+
+[25/Aug/2017:23:01:36](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Implementacion logica recepcion keyword de alta y migracion automatica de user a club default Guiasalud del pais respectivo
+    [5] => 
+    [6] => 11/13/2017
+    [7] => 11/14/2017
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:37](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => Flujo SMS Backend
+    [4] => 
+    [5] => 
+    [6] => 11/15/2017
+    [7] => 11/16/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:37](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Capturar MSISDN en DLR MO
+    [5] => 
+    [6] => 11/17/2017
+    [7] => 11/18/2017
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:37](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Implementacion de logica de envio de mensajes SECUENCIAL SMS diario x usuario en pre suscripcion
+    [5] => 
+    [6] => 11/19/2017
+    [7] => 11/20/2017
+    [8] => 4
+)
+
+[25/Aug/2017:23:01:38](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => Flujo Web Backend
+    [4] => 
+    [5] => 
+    [6] => 11/21/2017
+    [7] => 11/22/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:38](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Implementacion captura de MSISDN en 3G en home de app, sin usar LP
+    [5] => 
+    [6] => 11/23/2017
+    [7] => 11/24/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:38](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Impementacion de llamada a push server para envio de push notification a usuarios smartphones
+    [5] => 
+    [6] => 11/27/2017
+    [7] => 11/28/2017
+    [8] => 4
+)
+
+[25/Aug/2017:23:01:39](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => Flujo de APP Backend
+    [4] => 
+    [5] => 
+    [6] => 11/29/2017
+    [7] => 11/30/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:39](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Implementar llamado a endpoint de segmentacion (smart o feature phone), cuando el usuario descarga y abre la aplicacion por primera vez
+    [5] => 
+    [6] => 12/01/2017
+    [7] => 12/02/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:40](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Implementacion captura de MSISDN en 3G en home de app, sin usar LP
+    [5] => 
+    [6] => 12/03/2017
+    [7] => 12/04/2017
+    [8] => 6
+)
+
+[25/Aug/2017:23:01:40](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Implementacion de logica de envio de mensajes SECUENCIAL Push notification diario x usuario de tipo smartphone en presuscripcion
+    [5] => 
+    [6] => 12/05/2017
+    [7] => 12/06/2017
+    [8] => 4
+)
+
+[25/Aug/2017:23:01:40](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Documentacion
+    [5] => 
+    [6] => 12/07/2017
+    [7] => 12/08/2017
+    [8] => 4;9;6
+)
+
+[25/Aug/2017:23:01:41](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Creacion de televida-pushnotification
+    [5] => 
+    [6] => 12/09/2017
+    [7] => 12/10/2017
+    [8] => 4;9;6
+)
+
+[25/Aug/2017:23:01:41](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Documentacion
+    [5] => 
+    [6] => 12/11/2017
+    [7] => 12/12/2017
+    [8] => 4;9;6
+)
+
+[25/Aug/2017:23:01:41](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Task Name
+    [5] => 
+    [6] => 12/13/2017
+    [7] => 12/14/2017
+    [8] => 4;9;6
+)
+
+[25/Aug/2017:23:01:42](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => Creacion de televida-pushnotification
+    [4] => 
+    [5] => 
+    [6] => 12/15/2017
+    [7] => 12/16/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:42](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Analisis
+    [5] => 
+    [6] => 12/17/2017
+    [7] => 12/18/2017
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:42](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Diseño y revision
+    [5] => 
+    [6] => 12/19/2017
+    [7] => 12/20/2017
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:43](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Codificacion
+    [5] => 
+    [6] => 12/21/2017
+    [7] => 12/22/2017
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:43](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Pruebas: Unit test y revision de codigo
+    [5] => 
+    [6] => 12/23/2017
+    [7] => 12/24/2017
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:43](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => Chat backend web y app
+    [4] => 
+    [5] => 
+    [6] => 12/25/2017
+    [7] => 12/26/2017
+    [8] => 
+)
+
+[25/Aug/2017:23:01:44](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Analisis
+    [5] => 
+    [6] => 12/27/2017
+    [7] => 12/28/2017
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:44](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Diseño y documentacion de como funciona
+    [5] => 
+    [6] => 12/29/2017
+    [7] => 12/30/2017
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:44](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Revision de documento
+    [5] => 
+    [6] => 12/31/2017
+    [7] => 1/01/2018
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:45](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => creacion de televida-cachedmsgs
+    [5] => 
+    [6] => 1/02/2018
+    [7] => 1/03/2018
+    [8] => 9
+)
+
+[25/Aug/2017:23:01:45](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => creacion de televida-redis
+    [5] => 
+    [6] => 1/04/2018
+    [7] => 1/05/2018
+    [8] => 9
+)
+
+[25/Aug/2017:23:01:46](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => creacion televida-chatbusiness
+    [5] => 
+    [6] => 1/06/2018
+    [7] => 1/07/2018
+    [8] => 9
+)
+
+[25/Aug/2017:23:01:46](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => creacion televida-chat-ws-api
+    [5] => 
+    [6] => 1/08/2018
+    [7] => 1/09/2018
+    [8] => 9
+)
+
+[25/Aug/2017:23:01:46](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => JWT Backend
+    [4] => 
+    [5] => 
+    [6] => 1/10/2018
+    [7] => 1/11/2018
+    [8] => 
+)
+
+[25/Aug/2017:23:01:47](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Analisis
+    [5] => 
+    [6] => 1/12/2018
+    [7] => 01/13/2018
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:47](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Diseño
+    [5] => 
+    [6] => 01/14/2018
+    [7] => 01/15/2018
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:48](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Revision del documento de diseño
+    [5] => 
+    [6] => 01/16/2018
+    [7] => 01/17/2018
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:48](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Creacion de televida-security-filter
+    [5] => 
+    [6] => 01/18/2018
+    [7] => 01/19/2018
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:48](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Analisis (televida-security-filter)
+    [5] => 
+    [6] => 01/20/2018
+    [7] => 01/21/2018
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:49](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Diseño y revision (televida-security-filter)
+    [5] => 
+    [6] => 01/22/2018
+    [7] => 01/23/2018
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:49](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Codificacion (televida-security-filter)
+    [5] => 
+    [6] => 01/24/2018
+    [7] => 01/25/2018
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:50](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Pruebas: Unit test y revision de codigo (televida-security-filter)
+    [5] => 
+    [6] => 01/26/2018
+    [7] => 01/27/2018
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:50](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Creacion de televida-securityjwt
+    [5] => 
+    [6] => 01/28/2018
+    [7] => 01/29/2018
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:50](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Analisis (televida-securityjwt)
+    [5] => 
+    [6] => 01/30/2018
+    [7] => 01/31/2018
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:51](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Diseño y revision (televida-securityjwt)
+    [5] => 
+    [6] => 2/01/2018
+    [7] => 2/02/2018
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:51](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Codificacion (televida-securityjwt)
+    [5] => 
+    [6] => 2/03/2018
+    [7] => 2/04/2018
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:52](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Pruebas: Unit test y revision de codigo (televida-securityjwt)
+    [5] => 
+    [6] => 2/05/2018
+    [7] => 2/06/2018
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:52](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Integrar endpoints con el filtro jwt
+    [5] => 
+    [6] => 2/07/2018
+    [7] => 2/08/2018
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:52](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Pruebas ambiente de pruebas (integracion a front y backend)
+    [5] => 
+    [6] => 2/09/2018
+    [7] => 2/10/2018
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:53](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Documentacion
+    [5] => 
+    [6] => 2/11/2018
+    [7] => 2/12/2018
+    [8] => 8
+)
+
+[25/Aug/2017:23:01:53](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => PBL (Otorgar puntos y premios por eventos)
+    [4] => 
+    [5] => 
+    [6] => 02/13/2018
+    [7] => 02/14/2018
+    [8] => 
+)
+
+[25/Aug/2017:23:01:54](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Analisis
+    [5] => 
+    [6] => 02/15/2018
+    [7] => 02/16/2018
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:54](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Diseño y documentacion de como funciona
+    [5] => 
+    [6] => 02/17/2018
+    [7] => 02/18/2018
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:54](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => modificar televida-gamemodel
+    [5] => 
+    [6] => 02/19/2018
+    [7] => 02/20/2018
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:55](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => modificar televida-gamebusiness
+    [5] => 
+    [6] => 02/21/2018
+    [7] => 02/22/2018
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:55](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => crear televida-gamecommands
+    [5] => 
+    [6] => 02/23/2018
+    [7] => 02/24/2018
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:56](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => crear televida-gamecommands-imp
+    [5] => 
+    [6] => 02/25/2018
+    [7] => 02/26/2018
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:56](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Integracion Servicio listado de ranking top 10
+    [5] => 
+    [6] => 02/27/2018
+    [7] => 02/28/2018
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:56](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Servicio listado de medallas
+    [5] => 
+    [6] => 3/01/2018
+    [7] => 3/02/2018
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:57](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Servicio listado de insignias
+    [5] => 
+    [6] => 3/03/2018
+    [7] => 3/04/2018
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:57](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => generacion de premios mensuales
+    [5] => 
+    [6] => 3/05/2018
+    [7] => 3/06/2018
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:58](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Pruebas unitarias
+    [5] => 
+    [6] => 3/07/2018
+    [7] => 3/08/2018
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:58](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Documentacion
+    [5] => 
+    [6] => 3/09/2018
+    [7] => 3/10/2018
+    [8] => 3
+)
+
+[25/Aug/2017:23:01:59](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => Engine de consultas
+    [4] => 
+    [5] => 
+    [6] => 3/11/2018
+    [7] => 3/12/2018
+    [8] => 
+)
+
+[25/Aug/2017:23:01:59](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Analisis
+    [5] => 
+    [6] => 03/13/2018
+    [7] => 03/14/2018
+    [8] => 5
+)
+
+[25/Aug/2017:23:01:59](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Diseño y documentacion de como funciona
+    [5] => 
+    [6] => 03/15/2018
+    [7] => 03/16/2018
+    [8] => 5
+)
+
+[25/Aug/2017:23:02:00](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Adaptacion engine de consultas a recepcion SMS periodo de presuscripcion
+    [5] => 
+    [6] => 03/17/2018
+    [7] => 03/18/2018
+    [8] => 5
+)
+
+[25/Aug/2017:23:02:00](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Adaptacion engine de consultas a recepcion SMS periodo de postsuscripcion
+    [5] => 
+    [6] => 03/19/2018
+    [7] => 03/20/2018
+    [8] => 5
+)
+
+[25/Aug/2017:23:02:01](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Implementacion de logica para soporte de chat con experto en simultaneo con chat 1:1
+    [5] => 
+    [6] => 03/21/2018
+    [7] => 03/22/2018
+    [8] => 5
+)
+
+[25/Aug/2017:23:02:01](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Configuracion de endpoints de CDC en periodo de presuscripcion (MO gratis)
+    [5] => 
+    [6] => 03/23/2018
+    [7] => 03/24/2018
+    [8] => 8
+)
+
+[25/Aug/2017:23:02:02](0)Raw Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => Configuracion de endpoints de CDC en periodo de postsuscripcion (MO gratis)
+    [5] => 
+    [6] => 03/25/2018
+    [7] => 03/26/2018
+    [8] => 8
+)
+

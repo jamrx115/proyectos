@@ -1,0 +1,142 @@
+/* MonthView */
+.phprojekt .tableMonthView {
+    width: 100%;
+    line-height: 1.09;
+}
+
+.dj_ie7 .phprojekt .tableMonthView {
+    line-height: 1.04 !important;
+}
+
+.dj_ie .phprojekt .tableMonthView {
+    line-height: 1.15;
+}
+
+.phprojekt .tableMonthView .col1 {
+    width: 15%;
+}
+
+.phprojekt .tableMonthView .col2 {
+    width: 30%;
+}
+
+.phprojekt .tableMonthView .col3 {
+    width: 55%;
+}
+
+.phprojekt .tableMonthView td {
+    padding: 0 0.5em 0 0.5em;
+}
+
+.phprojekt .tableMonthView .weekday,
+.phprojekt .tableMonthView .weekday a,
+.phprojekt .tableMonthView .weekend,
+.phprojekt .tableMonthView .weekend a {
+    color: #000;
+    text-decoration: none;
+}
+
+.phprojekt .tableMonthView .weekend,
+.phprojekt .tableMonthView .weekend a {
+    color: #ccc;
+}
+
+.phprojekt .tableMonthView .open,
+.phprojekt .tableMonthView .open a {
+    color: red;
+}
+
+.phprojekt .timecardTableRow:hover {
+    cursor: pointer;
+    background-color: #cedaff;
+}
+
+.phprojekt .timecardSeparator {
+    background-color: #fff;
+    height: 5px;
+}
+
+.dj_ie .phprojekt .tableMonthView .dijitButtonNode {
+    padding: 0 0 0 5px;
+}
+
+/* List View */
+
+.phprojekt .timecardDayViewEntry {
+    width: 100%;
+}
+
+.phprojekt .timecardDayViewTHead {
+    font-weight: bold;
+}
+
+.phprojekt .timecardDayViewTd {
+    padding-left: 5px;
+}
+
+
+.phprojekt .timecardDayViewFooter {
+    border-top: 1px solid #000000;
+}
+
+.phprojekt .timecardDayViewTableBody {
+    border-spacing: 5px;
+}
+
+/* FormView*/
+.phprojekt .dndSource {
+    padding-left: 10px;
+    color: #000;
+    background-color: #ffcc33;
+    font-size: 8pt;
+    font-weight: bold;
+    filter: alpha(opacity=50);
+    opacity: .5;
+}
+
+.phprojekt .projectBookingForm .col1 {
+    width: 20%;
+}
+
+.phprojekt .projectBookingForm .col2 {
+    width: 65%;
+}
+
+.phprojekt .projectBookingForm .col3 {
+    width: 5%;
+}
+
+.phprojekt .projectBookingForm span .dijitArrowButtonInner {
+    display: none;
+}
+
+/* Tooltip */
+.phprojekt .timecardTooltipDialog {
+    width: 460px;
+    height: 165px;
+}
+
+.phprojekt .timecardTooltipDialog .dijitTooltipContainer {
+    background-color: #FFCC33;
+    border: 1px solid #294064;
+}
+
+.phprojekt .timecardTooltipDialog .dijitTooltipConnector {
+    background: url("images/tooltipConnectorLeft_ffcc33.png") no-repeat top left;
+}
+
+.dj_ie .phprojekt .timecardTooltipDialog .dijitTooltipConnector {
+    background-image: url("images/tooltipConnectorLeft_ffcc33.gif");
+}
+
+.phprojekt .hiddenTooltipPoint {
+    height: 20px;
+    left: 6.5em;
+    position: relative;
+    top: 0px;
+    width: 10px;
+}
+
+.dj_ie .phprojekt .hiddenTooltipPoint {
+    left: 4em;
+}

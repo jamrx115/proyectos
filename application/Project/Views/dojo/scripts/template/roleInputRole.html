@@ -1,0 +1,9 @@
+<div>
+<input name="roleRelation[{{userId}}]" type="hidden" value="{{roleId}}"
+dojoType="dijit.form.TextBox" {{disabled}} />
+{% if currentUser %}
+<b>{{roleName}}</b>
+{% else %}
+{{roleName}}
+{% endif %}
+</div>
